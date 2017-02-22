@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <string-array name="suo_setting_brief">
+        <item>@string/suo_always</item>
+        <item>@string/suo_five</item>
+        <item>@string/suo_until_sof</item>
+    </string-array>
+    <string-array name="suo_ruqinzhe_slot">
+        <item>@string/suo_intru_w_1</item>
+        <item>@string/suo_intru_w_2</item>
+        <item>@string/suo_intru_w_3</item>
+        <item>@string/suo_intru_w_4</item>
+        <item>@string/suo_intru_w_5</item>
+    </string-array>
+    <string-array name="suo_invade_st_">
+        <item>0</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+    </string-array>
+</resources>

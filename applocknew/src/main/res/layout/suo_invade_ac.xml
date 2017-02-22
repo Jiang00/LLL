@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+             android:layout_width="match_parent"
+             android:layout_height="wrap_content"
+             android:gravity="center"
+             android:orientation="vertical"
+             >
+
+    <LinearLayout
+        android:id="@+id/suo_invade_cia_ic"
+        android:layout_width="match_parent"
+        android:layout_height="60px"
+        android:orientation="horizontal"
+        android:background="#e3e3e3"
+        >
+
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:background="@drawable/suo_invade_li"
+            />
+        <TextView
+            android:id="@+id/suo_invade_data"
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_marginLeft="12px"
+            android:layout_marginRight="12px"
+            android:textSize="28px"
+            android:fontFamily="sans-serif-light"
+            android:textColor="@color/suo_te_2"
+            tools:text="2012/12/12"
+            android:gravity="center"
+            />
+        <View
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:layout_height="match_parent"
+            android:background="@drawable/suo_invade_li"
+            />
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:background="@drawable/suo_invade_shape"
+        android:orientation="vertical"
+        android:layout_marginLeft="16dp"
+        android:layout_marginRight="16dp"
+        android:layout_marginBottom="8dp"
+        >
+    <RelativeLayout
+
+        android:id="@+id/intrude_message_rel"
+
+        android:layout_width="match_parent"
+        android:layout_height="53dp"
+
+        >
+        <ImageView
+            android:id="@+id/suo_invade_ic"
+            android:layout_width="36dp"
+            android:layout_height="36dp"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="15dp"
+            />
+
+        <ImageView
+            android:layout_width="15dp"
+            android:layout_height="15dp"
+            android:layout_alignBottom="@id/suo_invade_ic"
+            android:layout_alignRight="@id/suo_invade_ic"
+            android:background="@drawable/suo_intr_blo"
+            />
+
+        <TextView
+            android:id="@+id/suo_appna"
+            android:layout_marginLeft="15dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_toRightOf="@id/suo_invade_ic"
+            android:text="qqq"
+            android:textColor="@color/suo_te_3"
+            android:textSize="15sp"/>
+        <ImageButton
+            android:id="@+id/suo_backg_s"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_alignParentRight="true"
+            android:background="@drawable/suo_incade_cha"
+            android:layout_gravity="end"/>
+    </RelativeLayout>
+
+
+
+    <com.suo.libra.view.LoaddImageView
+        android:id="@+id/suo_ima"
+
+        android:layout_width="match_parent"
+        android:layout_height="181dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"/>
+    </LinearLayout>
+</LinearLayout>

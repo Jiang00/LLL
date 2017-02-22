@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    Copyright 2014 Google Inc. All rights reserved.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this lockscreen_file except in compliance with the License.
+    You may obtain a copy of the License at
+
+         http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+    -->
+    <color name="touming">#00000000</color>
+
+    <color name="suo_te_1">#de000000</color>
+    <color name="suo_te_2">#a3a3a3</color>
+    <color name="suo_te_3">#636363</color>
+    <color name="suo_te_4">#acacac</color>
+
+    <color name="suo_te_5">#44000000</color>
+
+    <color name="suo_inva">#deffffff</color>
+
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <!--主题颜色-->
+    <color name="suo_app_pri">#2c2b35</color>
+    <color name="suo_app_pri_pass">#282730</color>
+    <!--密码盘数字颜色-->
+    <color name="suo_np_c">#00000000</color>
+    <color name="suo_np_c_s">#00000000</color>//
+    <!--密码线颜色-->
+    <color name="suo_pattern_right">#88ffffff</color>//18
+    <color name="suo_pattern_wang">#55ff0000</color>//19
+    <!--数字键盘颜色-->
+    <color name="suo_nm_nor_store">#00000000</color>//4
+    <color name="suo_nm_nor_soild">#00000000</color>//5
+    <color name="suo_nm_pass_soild">#00000000</color>//6
+    <color name="suo_nm_pass_stroke">#00000000</color>//7
+    <!--连线密码盘颜色-->
+    <color name="suo_pattern_in_right">#00000000</color>//26
+    <color name="suo_pattern_in_righ_stroke">#00000000</color>
+    <color name="suo_pattern_in_nor_stroke">#00000000</color>
+    <color name="suo_pattern_in_nor">#00000000</color>//27
+    <color name="suo_pattern_wai_nor_soild">#00000000</color>//28
+    <color name="app_pattern_wai_nor_stroke">#00000000</color>//29
+    <color name="app_pattern_wai_right_stroke">#00000000</color>//30
+    <color name="app_pattern_wai_right_soild">#00000000</color>//31
+    <color name="app_pattern_wai_wang_stroke">#00000000</color>//32
+    <color name="app_pattern_wai_wang_soild">#00000000</color>//33
+
+
+    <color name="app_white">@android:color/white</color>//34
+    <color name="app_password_backg">#fff0f0f0</color>//14
+    <color name="app_bac_tran">#66000000</color>//15
+    <color name="app_menu_it">#00181e13</color>//16
+    <color name="app_menu_it_pass">#aa858585</color>//17
+
+    <color name="app_apl_bt_nor_d">#ff23b529</color>//20
+    <color name="app_apl_bt_nor_u">#ff23c035</color>//21
+    <color name="app_apl_bt_pass_d">#ff65b529</color>//22
+    <color name="app_apl_bt_pass_u">#ff73cb35</color>//23
+    <color name="app_ep_backg">#ffc6e2ff</color>//19
+    <color name="app_ep_tit_b">#ff0ab5ef</color>//24
+    <color name="app_eo_tit_b_p">#ff0087e6</color>//25
+    <color name="app_sw_md_">#ffffff</color>//
+    <color name="app_sw_md_pass">#aaffffff</color>//
+
+    <color name="app_password_nor_soild">#ffffff</color>//8
+    <color name="app_password_nor_pass">#ffffff</color>//9
+    <color name="app_password_right_soild">#00ff00</color>//10
+    <color name="app_password_right_stroke">#00ff00</color>//11
+    <color name="app_password_wang_soild">#ff6100</color>//12
+    <color name="app_password_wang_stroke">#ffff0000</color>//13
+    <!---->
+
+    <color name="suo_acc_1">#00b0ff</color>
+
+    <color name="suo_acc_2">#ff4081</color>
+
+    <color name="suo_hm_gan">#99000000</color>
+
+
+    <color name="suo_backg_2">#f0f0f0</color>
+
+    <color name="suo_fab_gree_lig">#ff55aa55</color>
+    <color name="suo_fab_gree_nor">#ff00a000</color>
+
+    <!--
+      licence end here
+    -->
+
+    <color name="suo_list_backg">#f0f0f0</color>
+    <color name="suo_list_it_backg">#f0f0f0</color>
+    <color name="suo_me_backg_norm">#00181E13</color>
+    <color name="suo_yichu_pass">#aa858585</color>
+    <color name="suo_backg_3">#252B2F</color>
+    <color name="suo_tra_2">#9000</color>
+    <color name="suo_black_87">#636363</color>
+    <color name="suo_bt_text_sc">#33a638</color>
+    <color name="suo_bt_pass_sc">#66999999</color>
+    <color name="suo_white_87">#deffffff</color>
+    <!--入侵者-->
+    <color name="suo_incade_i">#1f000000</color>
+    <color name="suo_inavde_b">#de2196f3</color>
+    <!--新皮肤-->
+    <color name="suoftl_black_87">#de000000</color>
+    <color name="suo_ftl_black_38">#61000000</color>
+    <color name="suo_applock_folat_n">#009688</color>
+    <color name="suo_applock_folat_p">#008074</color>
+</resources>

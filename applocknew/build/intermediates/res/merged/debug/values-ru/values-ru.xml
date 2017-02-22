@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="_suo_rate_good">ХОРОШО</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Перейти на главный экран"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Перейти вверх"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Другие параметры"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Готово"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Показать все"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Выбрать приложение"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"ОТКЛ."</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ВКЛ."</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Поиск"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Удалить запрос"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Поисковый запрос"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Поиск"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Отправить запрос"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Голосовой поиск"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Открыть доступ"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Открыть доступ пользователю %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Свернуть"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"Приложению \"<ns1:g id="APP_NAME">%1$s</ns1:g>\" не удается подключиться к сервисам Google Play. Если проблема не исчезнет, обратитесь к разработчику."</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">">999"</string>
+    <string name="suo_again_draw_tu">перерисовывать</string>
+    <string name="suo_again_reset">Сбросить пароль</string>
+    <string name="suo_always">Всегда запирайте</string>
+    <string name="suo_app_open">Супер App Блокировка работает</string>
+    <string name="suo_app_title">Блокировка App</string>
+    <string name="suo_app_to_open">Коснитесь для включить Супер App блокировки</string>
+    <string name="suo_app_to_stop">Коснитесь для выключить Супер App Блокировка</string>
+    <string name="suo_apply">Применить</string>
+    <string name="suo_be_slot">Временных ограничений Краткое Выход из</string>
+    <string name="suo_be_soff">заблокировать после отключения экрана</string>
+    <string name="suo_br_setting">Краткое Настройка</string>
+    <string name="suo_brief">Краткие Выход из</string>
+    <string name="suo_brief_detai">Не его автоматической блокировке прежде краткого выхода</string>
+    <string name="suo_call">Входящий звонок</string>
+    <string name="suo_cancel">отменить</string>
+    <string name="suo_con_password">ПОДТВЕРДИТЕ ПАРОЛЬ</string>
+    <string name="suo_confirm_tip">подтвердите свой пароль</string>
+    <string name="suo_dec_title">съезжать</string>
+    <string name="suo_done">сделано</string>
+    <string name="suo_draw_path">Скрыть модели ничья путь</string>
+    <string name="suo_draw_tu">Нарисовать шаблон разблокировки</string>
+    <string name="suo_emal">E-mail</string>
+    <string name="suo_en_move_in">Переместите в</string>
+    <string name="suo_fake_one">часы</string>
+    <string name="suo_fake_stree">погода</string>
+    <string name="suo_fake_two">калькулятор</string>
+    <string name="suo_file_nor">Ничего здесь</string>
+    <string name="suo_five">5 минут</string>
+    <string name="suo_five_butt">5-Star-Rating</string>
+    <string name="suo_five_conplain">ЖАЛОВАТЬСЯ</string>
+    <string name="suo_five_start">Мы стремимся защитить вашу личную жизнь. Не могли бы вы дать нам 5-звездочный рейтинг?</string>
+    <string name="suo_got">знаю</string>
+    <string name="suo_hide">скрыть недавний APP</string>
+    <string name="suo_insta">Один кран, чтобы заблокировать вновь установленного приложения.</string>
+    <string name="suo_intru">Включите нарушителя</string>
+    <string name="suo_intru_detail">нарушителя Инфо</string>
+    <string name="suo_intru_f_app">Этот парень пытается подглядывать %1$s . Мы поймать его.</string>
+    <string name="suo_intru_help">Помогите</string>
+    <string name="suo_intru_i">Автоматически снимать фотографии при разблокировке с неправильным паролем.</string>
+    <string name="suo_intru_selfie">нарушителя selfie</string>
+    <string name="suo_intru_set">установка нарушителя</string>
+    <string name="suo_intru_shutter">Включить звук</string>
+    <string name="suo_intru_tishi">Если какой-либо злоумышленник введите неверный пароль, мы захватить его лицо.
+    </string>
+    <string name="suo_intru_w_1">1 раз</string>
+    <string name="suo_intru_w_2">2 раз</string>
+    <string name="suo_intru_w_3">3 раз</string>
+    <string name="suo_intru_w_4">4 раз</string>
+    <string name="suo_intru_w_5">5 раз</string>
+    <string name="suo_intru_w_tit">Ввели неправильный код</string>
+    <string name="suo_later">позже</string>
+    <string name="suo_lock_app_f">"Невозможно скрыть %1$S(Ваш телефон корнями?)"</string>
+    <string name="suo_lock_b">"Этот файл не может быть заблокирован."</string>
+    <string name="suo_lock_chengg">Блокировка успех %1$S</string>
+    <string name="suo_lock_newyingyong">Блокировка новых приложений</string>
+    <string name="suo_lock_success">Скрыть %1$S успех</string>
+    <string name="suo_lock_the_app">Разблокируйте это приложение</string>
+    <string name="suo_lock_tishi">Хотите, чтобы зафиксировать \"%1$S\"?</string>
+    <string name="suo_mima_not_">Подтвердите пароль неправильную.</string>
+    <string name="suo_mima_small">Draw at least 3 dots</string>
+    <string name="suo_next">следующий</string>
+    <string name="suo_notification_desc">Показать кнопка-переключатель в уведомлении</string>
+    <string name="suo_notification_show">Переключить уведомления</string>
+    <string name="suo_notlock_app_f">"Невозможно отобразить %1$S(Ваш телефон корнями?)"</string>
+    <string name="suo_ok">хОРОШО</string>
+    <string name="suo_password_f">"Невозможно задать пароль"</string>
+    <string name="suo_password_lock">пароль</string>
+    <string name="suo_password_tishi">"Пароль не может быть пустым"</string>
+    <string name="suo_pattern_lock">рисунок</string>
+    <string name="suo_permiss">Permission</string>
+    <string name="suo_permiss_grant">Grant</string>
+    <string name="suo_permiss_msg">"Повышение защиты конфиденциальности, пожалуйста, позвольте разрешение доступа</string>
+    <string name="suo_protect">Защита приложений с помощью пароля</string>
+    <string name="suo_protect_succ">Защитите успешно</string>
+    <string name="suo_random">Случайные клавиатура</string>
+    <string name="suo_rate"> Оценить мне</string>
+    <string name="suo_rate_bad">ПЛОХО</string>
+    <string name="suo_rate_msg">Если вы любите нас, пожалуйста, дайте нам 5-звездочный рейтинг.</string>
+    <string name="suo_rate_t">Оценить Супер блокировка приложения</string>
+    <string name="suo_resu_five">Ваша похвала будет побуждать нас делать лучше.</string>
+    <string name="suo_resu_go">Я хочу сказать...</string>
+    <string name="suo_ruqinzhe">нарушитель</string>
+    <string name="suo_ruqinzhe_de">поймать нарушителя для вас</string>
+    <string name="suo_ruqinzhe_off">Извещатель выключен</string>
+    <string name="suo_ruqinzhe_on">Охранный извещатель на</string>
+    <string name="suo_select_a">Выберите приложения для защиты</string>
+    <string name="suo_select_a_lo">Эти приложения блокируются</string>
+    <string name="suo_set_pass_title">набор пароль</string>
+    <string name="suo_set_password">Пароль устанавливается успех</string>
+    <string name="suo_set_tip_password">Введите любые цифры</string>
+    <string name="suo_setting">настройки</string>
+    <string name="suo_setting_pattern">Подтвердите шаблон </string>
+    <string name="suo_show_success">Показать %1$S успех</string>
+    <string name="suo_sousuo_hint">Типа здесь искать</string>
+    <string name="suo_start_rat">5-Stars-Рейтинг</string>
+    <string name="suo_stopped_l">Супер App Блокировка остановлен</string>
+    <string name="suo_submit">Отправить</string>
+    <string name="suo_unlock">введите пароль для разблокировки это приложение</string>
+    <string name="suo_unlock_chengg">Разблокируйте успех %1$S</string>
+    <string name="suo_until_sof">Вплоть до выключенным экраном</string>
+    <string name="suo_use_passwora">Использовать пароль для разблокировки</string>
+    <string name="suo_use_patt">Используйте шаблон для разблокировки</string>
+</resources>

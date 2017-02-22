@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/numpad"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/suo_bt_n_1"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_bg_1"
+            android:onClick="onClick"
+            android:text="1"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <Button
+            android:id="@+id/suo_bt_n_2"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:layout_marginLeft="@dimen/suo_nm_ma"
+            android:layout_marginRight="@dimen/suo_nm_ma"
+            android:background="@drawable/suo_password_n_bg_2"
+            android:onClick="onClick"
+            android:text="2"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <Button
+            android:id="@+id/suo_bt_n_3"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_bg_3"
+            android:onClick="onClick"
+            android:text="3"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/suo_nm_vm"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/suo_bt_n_4"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_bg_4"
+            android:onClick="onClick"
+            android:text="4"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <Button
+            android:id="@+id/suo_bt_n_5"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:layout_marginLeft="@dimen/suo_nm_ma"
+            android:layout_marginRight="@dimen/suo_nm_ma"
+            android:background="@drawable/suo_password_n_bg_5"
+            android:onClick="onClick"
+            android:text="5"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <Button
+            android:id="@+id/suo_bt_n_6"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_bg_6"
+            android:onClick="onClick"
+            android:text="6"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/suo_nm_vm"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/suo_bt_n_7"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_bg_7"
+            android:onClick="onClick"
+            android:text="7"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <Button
+            android:id="@+id/suo_bt_n_8"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:layout_marginLeft="@dimen/suo_nm_ma"
+            android:layout_marginRight="@dimen/suo_nm_ma"
+            android:background="@drawable/suo_password_n_bg_8"
+            android:onClick="onClick"
+            android:text="8"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <Button
+            android:id="@+id/suo_bt_n_9"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_bg_9"
+            android:onClick="onClick"
+            android:text="9"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/suo_nm_vm"
+        android:gravity="center"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/suo_password_cn"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:background="@drawable/suo_password_n_back"
+            android:onClick="onClick"
+            android:visibility="invisible" />
+
+        <Button
+            android:id="@+id/suo_bt_n_0"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="@dimen/suo_nm_rdor"
+            android:layout_marginLeft="@dimen/suo_nm_ma"
+            android:layout_marginRight="@dimen/suo_nm_ma"
+            android:background="@drawable/suo_password_n_bg_0"
+            android:onClick="onClick"
+            android:text="0"
+            android:textColor="@color/suo_np_c"
+            android:textSize="@dimen/suo_nm_fo" />
+
+        <ImageButton
+            android:id="@+id/suo_cha"
+            android:layout_width="@dimen/suo_nm_rdor"
+            android:layout_height="wrap_content"
+            android:background="@null"
+            android:onClick="onClick"
+            android:src="@drawable/suo_password_n_bg_back" />
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/suo_ok"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="12dp"
+        android:layout_marginRight="12dp"
+        android:layout_marginTop="12dp"
+        android:layout_marginBottom="15dp"
+        android:background="@drawable/suo_bt_backg_"
+        android:text="@string/suo_next"
+        android:textColor="#fff"/>
+</LinearLayout>

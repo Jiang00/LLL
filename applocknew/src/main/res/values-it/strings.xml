@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suo_done">Done</string>
+    <string name="suo_mima_not_">Password non corrispondono</string>
+    <string name="suo_password_tishi">"La password non può essere vuoto"</string>
+    <string name="suo_app_title">Blocco App</string>
+    <string name="suo_rate">Vota 5 stelle</string>
+    <string name="suo_setting">Impostazioni</string>
+    <string name="suo_lock_b">Questa file non può essere bloccata.</string>
+    <string name="suo_lock_app_f">Non posso nascondere %1$s (vostro telefono radicata?)</string>
+    <string name="suo_notlock_app_f">Impossibile visualizzare %1$s (Il telefono radicata?)</string>
+    <string name="suo_lock_success">Nascondi di successo %1$s</string>
+    <string name="suo_show_success">Mostra di successo %1$s</string>
+    <string name="suo_sousuo_hint">Digita qui per cercare</string>
+    <string name="suo_cancel">Annullare</string>
+    <string name="suo_file_nor">"Qui non c\'è nulla"</string>
+    <string name="suo_draw_tu">Disegnare un segno</string>
+    <string name="suo_use_passwora">Utilizzare password per sbloccare</string>
+    <string name="suo_set_password">Successo impostato password</string>
+    <string name="suo_password_f">Impossibile impostare la password</string>
+    <string name="suo_next">Il Prossimo</string>
+    <string name="suo_password_lock">Blocco password</string>
+    <string name="suo_pattern_lock">Blocco segno</string>
+    <string name="suo_again_reset">Reimposta password</string>
+    <string name="suo_stopped_l">Super AppLock è fermo</string>
+    <string name="suo_app_open">Super AppLock è in esecuzione</string>
+    <string name="suo_app_to_stop">Toccare per disattivarlo</string>
+    <string name="suo_app_to_open">Toccare per accenderlo</string>
+    <string name="suo_notification_show">Di notifica A levetta</string>
+    <string name="suo_notification_desc">Mostra pulsante del commutatore a nella notifica</string>
+    <string name="suo_unlock_chengg">Sbloccare Successo %1$s</string>
+    <string name="suo_lock_chengg">Serratura Successo %1$s</string>
+    <string name="suo_brief">"Consenti un\'uscita breve"</string>
+    <string name="suo_brief_detai">Non bloccare per un breve uscita</string>
+    <string name="suo_be_slot">Tempo limite uscita breve</string>
+    <string name="suo_lock_newyingyong">Bloccarlo nuove app</string>
+    <string name="suo_insta">Un rubinetto per bloccarlo app di nuova installazione.</string>
+    <string name="suo_random">Tastiera casuale</string>
+    <string name="suo_five">5 minuti</string>
+    <string name="suo_until_sof">Fino al schermo spento</string>
+    <string name="suo_lock_tishi">Vuoi per bloccarlo \"%1$s\" ?</string>
+    <string name="suo_dec_title">Spostare fuori</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_en_move_in">Sposta in</string>
+    <string name="suo_set_pass_title">Password impostata</string>
+    <string name="suo_con_password">Conferma password</string>
+    <string name="suo_later">Più tardi</string>
+    <string name="suo_br_setting">Breve impostazione</string>
+    <string name="suo_lock_the_app">Sblocca Questa App</string>
+    <string name="suo_unlock">Inserire la password per sbloccare questa app</string>
+    <string name="suo_always">Bloccare sempre</string>
+    <string name="suo_apply">Utilizzare</string>
+    <string name="suo_use_patt">Utilizzare segno per sbloccare</string>
+    <string name="suo_permiss_grant">Il permesso</string>
+    <string name="suo_permiss_msg">Migliorare la tutela della privacy, si prega di consentire l\'autorizzazione di accesso</string>
+    <string name="suo_permiss">Concedere</string>
+    <string name="suo_again_draw_tu">Disegnare di nuovo</string>
+    <string name="suo_mima_small">Disegnare almeno 3 puntini</string>
+    <string name="suo_setting_pattern">Disegna disegno</string>
+    <string name="suo_select_a">Selezionare le applicazioni per la protezione</string>
+    <string name="suo_select_a_lo">Queste applicazioni sono bloccate</string>
+    <string name="suo_draw_path">Nascondi percorso modello</string>
+    <string name="suo_protect">Proteggere le applicazioni con una password</string>
+    <string name="suo_protect_succ">Proteggere con successo</string>
+    <string name="suo_confirm_tip">conferma il codice di accesso</string>
+    <string name="suo_set_tip_password">Inserire le cifre come password</string>
+    <string name="suo_be_soff">bloccare dopo schermo spento</string>
+    <string name="suo_call">Chiamata in arrivo</string>
+    <string name="suo_ruqinzhe">Intruso</string>
+    <string name="suo_ruqinzhe_de">Fermo intruso per voi</string>
+    <string name="suo_ruqinzhe_off">Rilevatore di intrusione è spento</string>
+    <string name="suo_ruqinzhe_on">Rilevatore di intrusione è su</string>
+    <string name="suo_hide">Bloccare apps recenti</string>
+    <string name="suo_fake_one">Orologio</string>
+    <string name="suo_fake_two">Calcolatrice</string>
+    <string name="suo_fake_stree">Tempo</string>
+    <string name="suo_intru">Abilita intruso scattare foto</string>
+
+    <string name="suo_rate_t">Vota Super AppLock</string>
+    <string name="suo_rate_msg">Se ci piace, si prega di dare un 5 stelle-valutazione.</string>
+    <string name="suo_rate_bad">CATTIVO</string>
+    <string name="_suo_rate_good">BENE</string>
+    <string name="suo_resu_go">Voglio dire...</string>
+    <string name="suo_emal">E-mail</string>
+
+    <string name="suo_resu_five">La vostra lode incoraggerà a fare meglio.</string>
+    <string name="suo_five_start">Ci impegniamo a proteggere la tua privacy. Ci può dare un 5 stelle-valutazione?</string>
+    <string name="suo_five_butt">5-Star-Valutazione</string>
+	<string name="suo_submit">invio</string>
+    <string name="suo_five_conplain">LAMENTARSI</string>
+	
+    <string name="suo_start_rat">5 stelle Tasso</string>
+<!--入侵者-->
+    <string name="suo_intru_f_app">Questo ragazzo sta cercando di spiare %1$s . Noi lo prenderemo.</string>
+    <string name="suo_intru_selfie">Intruso selfie</string>
+    <string name="suo_intru_w_tit">Codice errato inserito</string>
+    <string name="suo_intru_detail">Info intruso</string>
+    <string name="suo_intru_help">Aiuto</string>
+    <string name="suo_intru_shutter">Attiva il suono</string>
+    <string name="suo_got">OK</string>
+    <string name="suo_intru_tishi">Se qualsiasi intruso immettere una password errata, ci sarà catturare il suo
+        volto.
+    </string>
+    <string name="suo_intru_set">Impostazione intruso</string>
+    <string name="suo_intru_w_5">5 volte</string>
+    <string name="suo_intru_w_4">4 volte</string>
+    <string name="suo_intru_w_3">3 volte</string>
+    <string name="suo_intru_w_2">2 volte</string>
+    <string name="suo_intru_w_1">1 volta</string><string name="suo_invade_em">Qual è intruso selfie?</string>
+    <string name="suo_intru_i">Automaticamente scattare foto quando si sblocca con la password errata.</string>
+
+ <!--锁屏-->
+</resources>

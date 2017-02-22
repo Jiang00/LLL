@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suo_done">zakończony</string>
+    <string name="suo_mima_not_">zakończony</string>
+    <string name="suo_password_tishi">"Hasło nie może być puste"</string>
+    <string name="suo_app_title">Blokada App</string>
+    <string name="suo_rate"> Oceń mnie 5 gwiazdek</string>
+    <string name="suo_setting">Ustawienia</string>
+    <string name="suo_lock_b">Plik ten nie może być zablokowany.</string>
+    <string name="suo_lock_app_f">Nie da się ukryć %1$s .</string>
+    <string name="suo_notlock_app_f">Nie można pokazać %1$s .</string>
+    <string name="suo_lock_success">Ukryj sukces %1$s</string>
+    <string name="suo_show_success">Pokazać sukces %1$s</string>
+    <string name="suo_sousuo_hint">Wpisz zapytanie</string>
+    <string name="suo_cancel">Anuluj</string>
+    <string name="suo_file_nor">Nie ma tu nic</string>
+    <string name="suo_draw_tu">Narysuj wzór</string>
+    <string name="suo_use_passwora">Użyj hasła w celu odblokowania</string>
+    <string name="suo_set_password">Hasło ustawione sukces</string>
+    <string name="suo_password_f">Nie można ustawić hasło</string>
+    <string name="suo_next">Następny</string>
+    <string name="suo_password_lock">Blokada hasłem</string>
+    <string name="suo_pattern_lock">Blokada wzorem</string>
+    <string name="suo_again_reset">Ustawienie hasła</string>
+    <string name="suo_stopped_l">Super AppLock jest zatrzymany</string>
+    <string name="suo_app_open">Super AppLock działa</string>
+    <string name="suo_app_to_stop">Dotknij, aby wyłączyć Super AppLock</string>
+    <string name="suo_app_to_open">Dotknij, aby włączyć Super AppLock</string>
+    <string name="suo_notification_show">Włącz powiadomienia</string>
+    <string name="suo_notification_desc">Pokaż przełącznika w powiadomieniu</string>
+    <string name="suo_unlock_chengg">%1$s Odblokuj sukces</string>
+    <string name="suo_lock_chengg">%1$s Zablokuj sukces</string>
+    <string name="suo_brief">Krótki zjazd</string>
+    <string name="suo_brief_detai">Nie blokuje się ponownie po krótkim wyjeździe</string>
+    <string name="suo_be_slot">Krótki termin wyjścia</string>
+    <string name="suo_lock_newyingyong">Blokada nowe aplikacje</string>
+    <string name="suo_insta">Jeden z kranu, aby zablokować nowo zainstalowaną aplikację.</string>
+    <string name="suo_random">Losowe klawiatury</string>
+    <string name="suo_five">5 minuty</string>
+    <string name="suo_until_sof">Dopóki ekran jest wyłączony</string>
+    <string name="suo_lock_tishi">Czy chcesz, aby zablokować \"%1$s\"?</string>
+    <string name="suo_dec_title">wyjmij</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_en_move_in">wprowadź</string>
+    <string name="suo_set_pass_title">Zestaw hasło</string>
+    <string name="suo_con_password">Potwierdzić hasło</string>
+    <string name="suo_later">Później</string>
+    <string name="suo_br_setting">Krótki Ustawienie</string>
+    <string name="suo_lock_the_app">Odblokuj tej aplikacji</string>
+    <string name="suo_unlock">Wprowadź swoje hasło, aby odblokować tę aplikację</string>
+    <string name="suo_always">Zawsze zamykaj</string>
+    <string name="suo_apply">Używać</string>
+    <string name="suo_use_patt">Użyj Wzorzec odblokować</string>
+    <string name="suo_permiss_grant">pozwolenie dotacji</string>
+    <string name="suo_permiss_msg">Zwiększenia ochrony prywatności, proszę pozwolić uprawnienia dostępu</string>
+    <string name="suo_permiss">Pozwolenie</string>
+    <string name="suo_again_draw_tu">Proszę zwrócić jeszcze raz</string>
+    <string name="suo_mima_small">Narysuj co najmniej 3 punkty</string>
+    <string name="suo_setting_pattern">Narysuj wzór </string>
+    <string name="suo_select_a">Wybierz aplikacje do ochrony</string>
+    <string name="suo_select_a_lo">Te aplikacje są zablokowane</string>
+    <string name="suo_protect">Zabezpiecz aplikacje z hasłem</string>
+    <string name="suo_protect_succ">Chroń powodzeniem</string>
+    <string name="suo_draw_path">Ukryj ścieżka zamek wzór</string>
+    <string name="suo_confirm_tip">potwierdzić swoje hasło</string>
+    <string name="suo_set_tip_password">Należy wprowadzić znaki</string>
+    <string name="suo_be_soff">Blokada po ekranie off</string>
+    <string name="suo_call">Przychodzące połączenie</string>
+    <string name="suo_ruqinzhe">Intruz</string>
+    <string name="suo_ruqinzhe_de">Intruz catch dla Ciebie</string>
+    <string name="suo_ruqinzhe_off">Detektor intruz jest wyłączony</string>
+    <string name="suo_ruqinzhe_on">Detektor intruz jest</string>
+    <string name="suo_hide">Ukryć ostatnie aplikacji</string>
+    <string name="suo_fake_one">Zegar</string>
+    <string name="suo_fake_two">Kalkulator</string>
+    <string name="suo_fake_stree">Pogoda</string>
+    <string name="suo_intru">Umożliwić zdjęcia intruza przy</string>
+
+
+
+    <string name="suo_rate_t">Oceń  Applock</string>
+    <string name="suo_rate_msg">Jeśli nam się podoba, proszę dać nam 5-star-rating.</string>
+    <string name="suo_rate_bad">ZŁY</string>
+    <string name="_suo_rate_good">DOBRY</string>
+    <string name="suo_resu_go">Chcę powiedzieć...</string>
+    <string name="suo_emal">E-mail</string>
+
+    <string name="suo_resu_five">Twoja chwała będzie zachęcać nas zrobić lepiej.</string>
+    <string name="suo_five_start">Jesteśmy zobowiązani do ochrony prywatności. Mógłbyś dać nam 5-star-rating?</string>
+    <string name="suo_five_butt">5-Star-Rating</string>
+	<string name="suo_submit">Zatwierdź</string>
+    <string name="suo_five_conplain">SKARŻYĆ SIĘ</string>
+	
+    <string name="suo_start_rat">5-gwiazdek-Rating</string>
+<!--入侵者-->
+    <string name="suo_intru_f_app">Ten facet próbuje przełamać w %1$s . Złapiemy go.</string>
+    <string name="suo_intru_selfie">Intruz selfie</string>
+    <string name="suo_intru_w_tit">Błędny kod wpisany</string>
+    <string name="suo_intru_detail">Intruz info</string>
+    <string name="suo_intru_help">Pomoc</string>
+    <string name="suo_intru_shutter">Włącz dźwięk</string>
+    <string name="suo_got">OK</string>
+    <string name="suo_intru_tishi">Jeśli intruz wprowadzić błędne hasło, będziemy uchwycić twarz dla Ciebie.</string>
+    <string name="suo_intru_set">Ustawienie intruz</string>
+    <string name="suo_intru_w_5">5 razy</string>
+    <string name="suo_intru_w_4">4 razy</string>
+    <string name="suo_intru_w_1">1 raz</string>
+    <string name="suo_intru_w_3">3 razy</string>
+    <string name="suo_intru_w_2">2 razy</string><string name="suo_invade_em">Czym jest intruz selfie?</string>
+    <string name="suo_intru_i">Automatyczne wykonywanie zdjęć podczas odblokowywania ze złym hasłem.</string>
+
+</resources>

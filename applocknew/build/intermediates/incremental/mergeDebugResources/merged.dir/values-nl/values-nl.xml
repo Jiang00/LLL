@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="_suo_rate_good">GOED</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navigeren naar startpositie"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Omhoog navigeren"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Meer opties"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Gereed"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alles weergeven"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Een app selecteren"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"UIT"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"AAN"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Zoeken…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Zoekopdracht wissen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Zoekopdracht"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Zoeken"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Zoekopdracht verzenden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Gesproken zoekopdracht"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> ondervindt problemen met Google Play-services. Als het probleem aanhoudt, neem je contact op met de ontwikkelaar voor ondersteuning."</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suo_again_draw_tu">Gelieve nogmaals te tekenen van het patroon</string>
+    <string name="suo_again_reset">Gereset Wachtwoord</string>
+    <string name="suo_always">Elke keer</string>
+    <string name="suo_app_open">Super AppLock actief is</string>
+    <string name="suo_app_title">Vergrendeling App</string>
+    <string name="suo_app_to_open">Tik op om te schakelen Super AppLock</string>
+    <string name="suo_app_to_stop">Tik Super AppLock uit te schakelen</string>
+    <string name="suo_apply">Aanvragen</string>
+    <string name="suo_be_slot">Korte afslag tijdslimiet</string>
+    <string name="suo_be_soff">geblokkeerd na scherm uit</string>
+    <string name="suo_br_setting">Korte instellen</string>
+    <string name="suo_brief">Korte exit</string>
+    <string name="suo_brief_detai">Na een korte terugkeer hoeft niet opnieuw te authenticeren</string>
+    <string name="suo_call">Inkomende oproep</string>
+    <string name="suo_cancel">Annuleren</string>
+    <string name="suo_con_password">BEVESTIG WACHTWOORD</string>
+    <string name="suo_confirm_tip">voert u het wachtwoord te bevestigen</string>
+    <string name="suo_dec_title">Uit huis gaan</string>
+    <string name="suo_done">Qedaan</string>
+    <string name="suo_draw_path">Verberg patroon gelijkspel pad</string>
+    <string name="suo_draw_tu">Teken een patroon</string>
+    <string name="suo_emal">E-mail</string>
+    <string name="suo_en_move_in">Intrekken</string>
+    <string name="suo_fake_one">Klok</string>
+    <string name="suo_fake_stree">Weer</string>
+    <string name="suo_fake_two">Rekenmachine</string>
+    <string name="suo_file_nor">Hier niets</string>
+    <string name="suo_five">5 minuten</string>
+    <string name="suo_five_butt">5-Star-Rating</string>
+    <string name="suo_five_conplain">KLAGEN</string>
+    <string name="suo_five_start">We zijn toegewijd aan het beschermen van uw privacy. Kunt u ons een 5-sterren-rating?</string>
+    <string name="suo_got">OK</string>
+    <string name="suo_hide">Recente apps verbergen</string>
+    <string name="suo_insta">Bij het installeren van een nieuwe herinnering applicatie slot, een sleutel om snel te vergrendelen</string>
+    <string name="suo_intru">Staat indringer nemen foto</string>
+    <string name="suo_intru_detail">Indringer info</string>
+    <string name="suo_intru_f_app">Deze man probeert in te breken in uw %1$s. We pakken hem.</string>
+    <string name="suo_intru_help">Help</string>
+    <string name="suo_intru_i">Automatisch foto\'s nemen wanneer het ontgrendelen met het verkeerde wachtwoord.</string>
+    <string name="suo_intru_selfie">Indringer selfie</string>
+    <string name="suo_intru_set">Indringer instelling</string>
+    <string name="suo_intru_shutter">Het geluid in te schakelen</string>
+    <string name="suo_intru_tishi">Als een indringer te voeren verkeerd wachtwoord, zullen we zijn gezicht vast te
+        leggen.
+    </string>
+    <string name="suo_intru_w_1">1 keer</string>
+    <string name="suo_intru_w_2">2 keer</string>
+    <string name="suo_intru_w_3">3 keer</string>
+    <string name="suo_intru_w_4">4 keer</string>
+    <string name="suo_intru_w_5">5 keer</string>
+    <string name="suo_intru_w_tit">Onjuiste code ingevoerd</string>
+    <string name="suo_invade_em">Wat is indringer selfie?</string>
+    <string name="suo_later">Latere</string>
+    <string name="suo_lock_app_f">"Kan niet verbergen %1$s(Uw telefoon geworteld?)"</string>
+    <string name="suo_lock_b">"Dit bestand kan niet worden vergrendeld."</string>
+    <string name="suo_lock_chengg">Lock %1$s success</string>
+    <string name="suo_lock_newyingyong">Vergrendel nieuwe apps</string>
+    <string name="suo_lock_success">Verberg %1$s succes</string>
+    <string name="suo_lock_the_app">Ontgrendelen de App</string>
+    <string name="suo_lock_tishi">Wilt u \"%1$s\" vergrendeld?</string>
+    <string name="suo_mima_not_">Wachtwoord komen niet overeen</string>
+    <string name="suo_mima_small">Sluit ten minste 3 punten</string>
+    <string name="suo_next">Volgende</string>
+    <string name="suo_notification_desc">Toon schakelknop in de kennisgeving</string>
+    <string name="suo_notification_show">Meldingen balk</string>
+    <string name="suo_notlock_app_f">"Kan niet zien %1$s(Uw telefoon geworteld?)"</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_password_f">"Wachtwoord instellen mislukt"</string>
+    <string name="suo_password_lock">Wachtwoord </string>
+    <string name="suo_password_tishi">"Het wachtwoord kan niet leeg zijn"</string>
+    <string name="suo_pattern_lock">Patroon </string>
+    <string name="suo_permiss">Toestaan</string>
+    <string name="suo_permiss_grant">Toestemming</string>
+    <string name="suo_permiss_msg">"Verbeter bescherming van de privacy, staat u toegangsrechten"</string>
+    <string name="suo_protect">Bescherm apps met een wachtwoord</string>
+    <string name="suo_protect_succ">Bescherm succes</string>
+    <string name="suo_random">Willekeurige toetsenbord</string>
+    <string name="suo_rate">Beoordeel mij</string>
+    <string name="suo_rate_bad">SLECHT</string>
+    <string name="suo_rate_msg">Als u ons wilt, geef ons dan een 5-sterren-rating.</string>
+    <string name="suo_rate_t">Rate Super Applock</string>
+    <string name="suo_resu_five">Uw lof zal moedigen ons beter te doen.</string>
+    <string name="suo_resu_go">Ik wil zeggen...</string>
+    <string name="suo_ruqinzhe">Indringer</string>
+    <string name="suo_ruqinzhe_de">Vangst indringer voor u</string>
+    <string name="suo_ruqinzhe_off">Indringer detector is uitgeschakeld</string>
+    <string name="suo_ruqinzhe_on">Indringer detector is op</string>
+    <string name="suo_select_a">Selecteer apps te beschermen</string>
+    <string name="suo_select_a_lo">Deze apps zijn vergrendeld</string>
+    <string name="suo_set_pass_title">INSTELLEN WACHTWOORD</string>
+    <string name="suo_set_password">Wachtwoord in te stellen succes</string>
+    <string name="suo_set_tip_password">Voer geen cijfers</string>
+    <string name="suo_setting">Instellingen</string>
+    <string name="suo_setting_pattern">Bevestig patroon </string>
+    <string name="suo_show_success">Toon %1$s succes</string>
+    <string name="suo_sousuo_hint">Typ hier om te zoeken</string>
+    <string name="suo_start_rat">5 sterren Geef</string>
+    <string name="suo_stopped_l">Super AppLock is gestopt</string>
+    <string name="suo_submit">voorleggen</string>
+    <string name="suo_unlock">Voer uw wachtwoord in om deze app te openen</string>
+    <string name="suo_unlock_chengg">Ontgrendelen%1$s succes</string>
+    <string name="suo_until_sof">Totdat het scherm sluizen</string>
+    <string name="suo_use_passwora">Gebruik wachtwoord te ontgrendelen</string>
+    <string name="suo_use_patt">Gebruikspatroon vergrendeling</string>
+</resources>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="noTranslation">
+    <string name="suo_done">Yapıldı</string>
+    <string name="suo_mima_not_">Şifre onayında hata</string>
+    <string name="suo_password_tishi">Şifre hanesi boş bırakılamaz</string>
+    <string name="suo_app_title">Uygulamayı kilitle</string>
+    <string name="suo_rate">Beni derecelendir</string>
+    <string name="suo_setting">Ayarlar</string>
+    <string name="suo_lock_b">Bu dosya kilitlenemez</string>
+    <string name="suo_lock_app_f">%1$s Gizlenemiyor ( Telefonunuz rootlandımı ? )</string>
+    <string name="suo_notlock_app_f">%1$s Gösterilemiyor ( Telefonunuz rootlandımı ? )"</string>
+    <string name="suo_lock_success">%1$s başarıyla gizlendi</string>
+    <string name="suo_show_success">%1$s başarıyla gösterildi </string>
+    <string name="suo_sousuo_hint">Arama için buraya yazınız</string>
+    <string name="suo_cancel">İptal</string>
+    <string name="suo_file_nor">Bu konumda hiç bir şey yok </string>
+    <string name="suo_draw_tu">Kilidi açacak bir şablon çiziniz</string>
+    <string name="suo_set_password">Şifre kurulumu başarılı</string>
+    <string name="suo_password_f">Şifre kurulumu yapılamıyor </string>
+    <string name="suo_next">Sıradaki</string>
+    <string name="suo_password_lock">Şifre kilidi</string>
+    <string name="suo_pattern_lock">Şablon kilidi</string>
+    <string name="suo_again_reset">Şifreyi sıfırla</string>
+    <string name="suo_stopped_l">Süper App kilidi durduruldu</string>
+    <string name="suo_app_open">Süper App kilidini çalışıyor</string>
+    <string name="suo_app_to_stop">Süper App kilidini kapatmak için tıklayınız</string>
+    <string name="suo_app_to_open">Süper App kilidini açmak için tıklayınız</string>
+    <string name="suo_notification_show">Geçiş bildirimi</string>
+    <string name="suo_notification_desc">Geçiş butonunu bildirimin içinde göster</string>
+    <string name="suo_unlock_chengg">%1$s başarıyla açıldı</string>
+    <string name="suo_lock_chengg">%1$s başarıyla kitlendi</string>
+    <string name="suo_brief">Hızlı çıkış</string>
+    <string name="suo_brief_detai">Hızlı çıkıştan önce tekrar kilitleme</string>
+    <string name="suo_be_slot">Hızlı çıkış zaman limiti</string>
+    <string name="suo_lock_newyingyong">Yeni uygulamaları kilitle</string>
+    <string name="suo_insta">Yeni yüklenmiş uygulamaları kilitlemek için bir kez tıklayįnız</string>
+    <string name="suo_random">Rastgele klavye</string>
+    <string name="suo_five">5 dakika</string>
+    <string name="suo_until_sof">Ekran kapanana kadar</string>
+    <string name="suo_lock_tishi">\"%1$s\" kilitlemek istermisiniz?</string>
+    <string name="suo_dec_title">Dışarı çıkart </string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_en_move_in">İçeri taşı</string>
+    <string name="suo_set_pass_title">ŞİFRENİZİ KURUN</string>
+    <string name="suo_con_password">ŞİFRENİZİ ONAYLAYIN</string>
+    <string name="suo_later">Daha sonra</string>
+    <string name="suo_br_setting">Kısa kurulum</string>
+    <string name="suo_lock_the_app">Bu uygulamanın kilidini aç</string>
+    <string name="suo_unlock">Bu uygulamanın kilidini açmak için şifrenizi giriniz</string>
+    <string name="suo_always">Her zaman kilitle</string>
+    <string name="suo_apply">Kullanım</string>
+    <string name="suo_use_patt">Şablon kilidi kullan</string>
+    <string name="suo_use_passwora">Şifre kilidi kullan</string>
+    <string name="suo_permiss_grant">Hibe izni</string>
+    <string name="suo_permiss">Hibe izni</string>
+    <string name="suo_permiss_msg">"gizlilik koruması geliştirmek, erişim izni izin verin"</string>
+    <string name="suo_again_draw_tu">tekrar çizmek</string>
+    <string name="suo_mima_small">En az 3 nokta çizin</string>
+    <string name="suo_setting_pattern">Narysuj wzór </string>
+    <string name="suo_draw_path">Sakla desen kilidi yolu</string>
+    <string name="suo_select_a">Korumak için uygulamaları seçin</string>
+    <string name="suo_select_a_lo">Bu uygulamalar kilitli</string>
+    <string name="suo_protect_succ">başarıyla koruyun</string>
+    <string name="suo_protect">Bir şifre ile koruyun uygulamaları</string>
+    <string name="suo_confirm_tip">Onaylamak için şifrenizi tekrar girin</string>
+    <string name="suo_set_tip_password">Herhangi bir basamak girin</string>
+    <string name="suo_be_soff">Ekran kapalı sonra yeniden kilitlemek</string>
+    <string name="suo_call">Gelen arama</string>
+    <string name="suo_ruqinzhe">Davetsiz misafir</string>
+    <string name="suo_ruqinzhe_de">Sizin için yakalama saldırgan</string>
+    <string name="suo_ruqinzhe_off">Hırsız dedektörü kapalı</string>
+    <string name="suo_ruqinzhe_on">Saldırgan dedektörü verildi</string>
+    <string name="suo_hide">Son APP gizlemek</string>
+    <string name="suo_fake_one">Saat</string>
+    <string name="suo_fake_two">Hesaplanan.</string>
+    <string name="suo_fake_stree">Hava</string>
+    <string name="suo_intru">Saldırgan açın</string>
+
+
+    <string name="suo_rate_t">Hızı Süper Applock</string>
+    <string name="suo_rate_msg">Bize isterseniz, bize bir 5-star-derecelendirme verin.</string>
+    <string name="suo_rate_bad">KÖTÜ</string>
+    <string name="_suo_rate_good">İYİ</string>
+    <string name="suo_resu_go">Söylemek istiyorum...</string>
+    <string name="suo_emal">E-posta</string>
+
+    <string name="suo_resu_five">Sizin övgü bize daha iyisini teşvik edecektir.</string>
+    <string name="suo_five_start">Biz gizliliğinizi korumayı taahhüt ediyoruz. Eğer bize 5-star-derecelendirme verebilir?</string>
+    <string name="suo_five_butt">5-Star-Değerlendirme</string>
+	<string name="suo_submit">sunmak</string>
+    <string name="suo_five_conplain">ŞİKAYET</string>
+	
+    <string name="suo_start_rat">5-Yıldız-Değerlendirme</string>
+
+    <!--入侵者-->
+    <string name="suo_intru_f_app">Bu adam senin %1$s kırmaya çalışıyor. Onu yakalamak.</string>
+    <string name="suo_intru_selfie">Davetsiz misafir</string>
+    <string name="suo_intru_detail">saldırgan bilgi</string>
+    <string name="suo_intru_help">Yardım</string>
+    <string name="suo_intru_shutter">sesi etkinleştirmek</string>
+    <string name="suo_got">OK</string>
+    <string name="suo_intru_tishi">Herhangi bir saldırgan yanlış şifreyi girmeniz gerekir, biz onun yüzünü
+        yakalayacaktır.
+    </string>
+    <string name="suo_intru_set">davetsiz misafir ayarı</string>
+    <string name="suo_intru_w_5">5 kere</string>
+    <string name="suo_intru_w_4">4 kere</string>
+    <string name="suo_intru_w_3">3 kere</string>
+    <string name="suo_intru_w_2">2 kere</string>
+    <string name="suo_intru_w_1">1 kez</string>
+    <string name="suo_intru_i">Yanlış şifre ile kilidini otomatik olarak fotoğraf çekmek.</string>
+	
+</resources>
+

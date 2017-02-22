@@ -1,0 +1,37 @@
+{
+  "buildFiles": [
+    "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\Android.mk",
+    "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\Application.mk"
+  ],
+  "cleanCommands": [
+    "E:\\android-ndk-r10e\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dD:/gitlab/AppLock-aurora-v1/applocknew/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\ndkBuild\\debug\\lib clean"
+  ],
+  "libraries": {
+    "file-debug-armeabi-v7a": {
+      "buildCommand": "E:\\android-ndk-r10e\\ndk-build.cmd NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003dD:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\Android.mk NDK_APPLICATION_MK\u003dD:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\Application.mk APP_ABI\u003darmeabi-v7a NDK_ALL_ABIS\u003darmeabi-v7a NDEBUG\u003d1 APP_PLATFORM\u003dandroid-15 NDK_OUT\u003dD:/gitlab/AppLock-aurora-v1/applocknew/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003dD:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\ndkBuild\\debug\\lib D:/gitlab/AppLock-aurora-v1/applocknew/build/intermediates/ndkBuild/debug/obj/local/armeabi-v7a/libfile.so",
+      "toolchain": "toolchain-armeabi-v7a",
+      "abi": "armeabi-v7a",
+      "artifactName": "file",
+      "files": [
+        {
+          "src": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\core.cpp",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector\" \"-no-canonical-prefixes\" \"-march\u003darmv7-a\" \"-mfpu\u003dvfpv3-d16\" \"-mfloat-abi\u003dsoftfp\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-Os\" \"-g\" \"-DNDEBUG\" \"-fomit-frame-pointer\" \"-fno-strict-aliasing\" \"-finline-limit\u003d64\" \"-IE:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include\" \"-IE:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi-v7a/include\" \"-IE:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/backward\" \"-ID:/gitlab/AppLock-aurora-v1/applocknew/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-IE:/android-ndk-r10e/platforms/android-15/arch-arm/usr/include\""
+        },
+        {
+          "src": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\jni\\sha256.cpp",
+          "flags": "\"-fpic\" \"-ffunction-sections\" \"-funwind-tables\" \"-fstack-protector\" \"-no-canonical-prefixes\" \"-march\u003darmv7-a\" \"-mfpu\u003dvfpv3-d16\" \"-mfloat-abi\u003dsoftfp\" \"-fno-exceptions\" \"-fno-rtti\" \"-mthumb\" \"-Os\" \"-g\" \"-DNDEBUG\" \"-fomit-frame-pointer\" \"-fno-strict-aliasing\" \"-finline-limit\u003d64\" \"-IE:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include\" \"-IE:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/libs/armeabi-v7a/include\" \"-IE:/android-ndk-r10e/sources/cxx-stl/gnu-libstdc++/4.8/include/backward\" \"-ID:/gitlab/AppLock-aurora-v1/applocknew/src/main/jni\" \"-DANDROID\" \"-Wa,--noexecstack\" \"-Wformat\" \"-Werror\u003dformat-security\" \"-IE:/android-ndk-r10e/platforms/android-15/arch-arm/usr/include\""
+        }
+      ],
+      "output": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\ndkBuild\\debug\\obj\\local\\armeabi-v7a\\libfile.so"
+    }
+  },
+  "toolchains": {
+    "toolchain-armeabi-v7a": {
+      "cppCompilerExecutable": "E:\\android-ndk-r10e\\toolchains\\arm-linux-androideabi-4.8\\prebuilt\\windows-x86_64\\bin\\arm-linux-androideabi-g++"
+    }
+  },
+  "cFileExtensions": [],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

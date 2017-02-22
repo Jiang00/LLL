@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="horizontal"
+              android:layout_width="match_parent"
+              android:layout_height="wrap_content"
+              android:paddingTop="8dp"
+                android:paddingBottom="8dp"
+        android:gravity="center">
+    <com.suo.libra.view.LoaddImageView
+            android:layout_width="41dp"
+            android:layout_height="41dp"
+            android:scaleType="fitCenter"
+    android:layout_marginLeft="16dp"
+            android:id="@+id/suo_ima"/>
+    <TextView
+            android:layout_width="0dp"
+            android:textSize="16sp"
+            android:layout_height="60dp"
+            android:layout_marginLeft="16dp"
+        android:gravity="center_vertical"
+            android:textColor="@color/suo_te_3"
+            android:layout_weight="1"
+            android:id="@+id/suo_appna"/>
+    <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:src="@drawable/suo_list_item_bt"
+        android:layout_marginRight="16dp"
+            android:enabled="false"
+            android:id="@+id/suo_ima_loc"/>
+</LinearLayout>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+    <!--<string name="app_name">AppLock galaxy</string>-->
+    <string name="suo_done">Done</string>
+
+
+    <string name="suo_mima_not_">Passwords do not match</string>
+    <string name="suo_mima_small">Connect at least 3 dots</string>
+    <string name="suo_password_tishi">"The password can't be empty"</string>
+    <string name="suo_app_title">Lock App</string>
+    <string name="suo_rate">☆Rate me</string>
+    <string name="suo_setting">Settings</string>
+    <string name="suo_lock_b">"This file can't be locked."</string>
+    <string name="suo_lock_app_f">"Can't hide %1$s(Your phone rooted?)"</string>
+    <string name="suo_notlock_app_f">"Can't show %1$s(Your phone rooted?)"</string>
+    <string name="suo_lock_success">Hide %1$s success</string>
+    <string name="suo_show_success">Show %1$s success</string>
+    <string name="suo_sousuo_hint">Type here to search</string>
+    <string name="suo_cancel">Cancel</string>
+    <string name="suo_file_nor">Add something to protect in the vault</string>
+    <string name="suo_setting_pattern">SET PATTERN</string>
+    <string name="suo_draw_tu">Draw a pattern</string>
+    <string name="suo_again_draw_tu">Confirm pattern</string>
+    <string name="suo_use_passwora">Use Password To Unlock</string>
+    <string name="suo_set_password">Password set success</string>
+    <string name="suo_password_f">"Can't set password"</string>
+    <string name="suo_next">Next</string>
+    <string name="suo_password_lock">Password Lock</string>
+    <string name="suo_pattern_lock">Pattern Lock</string>
+    <string name="suo_again_reset">Reset Password</string>
+    <string name="suo_stopped_l"> AppLock is stopped</string>
+    <string name="suo_app_open"> AppLock is running</string>
+    <string name="suo_app_to_stop">Tap to turn off AppLock</string>
+    <string name="suo_app_to_open">Tap to turn on AppLock</string>
+    <string name="suo_notification_show">Toggle notification</string>
+    <string name="suo_notification_desc">Show toggle button in the notification</string>
+    <string name="suo_unlock_chengg">Unlock %1$s success</string>
+    <string name="suo_lock_chengg">Lock %1$s success</string>
+    <string name="suo_brief">Brief exit</string>
+    <string name="suo_brief_detai">Not to relock after a brief exit</string>
+    <string name="suo_be_soff">Relock after screen off</string>
+    <string name="suo_be_slot">Brief exit time limit</string>
+    <string name="suo_lock_newyingyong">Lock new apps</string>
+    <string name="suo_insta">One tap to lock newly installed app.</string>
+    <string name="suo_random">Random keyboard</string>
+    <string name="suo_five">5 minutes</string>
+    <string name="suo_until_sof">Until screen off</string>
+    <string name="suo_lock_tishi">Do you want to lock \"%1$s\"?</string>
+    <string name="suo_dec_title">Move out</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_en_move_in">Move in</string>
+    <string name="suo_set_pass_title">SET PASSWORD</string>
+    <string name="suo_con_password">CONFIRM PASSWORD</string>
+    <string name="suo_later">Later</string>
+    <string name="suo_br_setting">Brief Setting</string>
+    <string name="suo_lock_the_app">Unlock the App</string>
+    <string name="suo_face" translatable="false">https://www.facebook.com/PrivacyLock</string>
+    <string name="suo_unlock">enter your password to unlock this app</string>
+    <string name="suo_always">Always lock</string>
+    <string name="suo_apply">Apply</string>
+    <string name="suo_use_patt">Use Pattern To Unlock</string>
+    <string name="suo_permiss">Permission</string>
+    <string name="suo_permiss_msg">""For better privacy protection, please allow access permission"</string>
+    <string name="suo_permiss_grant">Grant</string>
+    <string name="suo_draw_path">Hide pattern draw path</string>
+    <string name="suo_protect">Protect apps with a password</string>
+    <string name="suo_protect_succ">Protected successfully</string>
+    <string name="suo_select_a">Select apps to protect</string>
+    <string name="suo_select_a_lo">The apps below are locked</string>
+    <string name="suo_set_tip_password">enter any digits you want</string>
+    <string name="suo_confirm_tip">reenter your passcode to confirm</string>
+    <string name="suo_update_title">New Version Update</string>
+    <string name="suo_ruqinzhe">Intruder selfie </string>
+    <string name="suo_ruqinzhe_on">Intruder detector is turned on</string>
+    <string name="suo_ruqinzhe_off">Intruder detector is turned off</string>
+    <string name="suo_ruqinzhe_de">Catch intruder for you</string>
+    <string name="suo_call">Incoming Call</string>
+    <string name="suo_hide">Hide recent apps</string>
+    <string name="suo_fake_one">Clock</string>
+    <string name="suo_fake_two">Calc</string>
+    <string name="suo_fake_stree">Weather</string>
+    <string name="suo_intru">Turn on intruder</string>
+    <string name="suo_undate">Install</string>
+
+
+    <string name="suo_rate_t">Rate Applock</string>
+    <string name="suo_rate_msg">If you like us, please give us a 5-star-rating.</string>
+    <string name="suo_rate_bad">BAD</string>
+    <string name="_suo_rate_good">GOOD</string>
+    <string name="suo_resu_go">I want to say...</string>
+    <string name="suo_emal">Email</string>
+
+    <string name="suo_resu_five">Your praise will encourage us do better.</string>
+
+    <string name="suo_five_start">We are committed to protecting your privacy. Could you give us a 5-star-rating? </string>
+    <string name="suo_five_butt">Five Star</string>
+
+    <string name="suo_submit">Submit</string>
+    <string name="suo_five_conplain">COMPLAIN</string>
+    <string name="suo_start_rat">5-Stars-Rating</string>
+<!--入侵者-->
+    <string name="suo_intru_f_app">This guy is trying to break in your %1$s. We catched him.</string>
+    <string name="suo_intru_selfie">Intruder Selfie</string>
+    <string name="suo_intru_w_tit">Incorrect code entered</string>
+    <string name="suo_intru_help">Help</string>
+    <string name="suo_intru_shutter">Enable shutter sound</string>
+    <string name="suo_got">Got it</string>
+    <string name="suo_intru_tishi">If any intruder enters wrong password, we will capture his face for you.</string>
+    <string name="suo_intru_w_1">1 time</string>
+    <string name="suo_intru_w_2">2 times</string>
+    <string name="suo_intru_w_3">3 times</string>
+    <string name="suo_intru_w_4">4 times</string>
+    <string name="suo_intru_w_5">5 times</string>
+    <string name="suo_intru_set">Intruder setting</string>
+    <string name="suo_intru_detail">Intruder Detail</string>
+    <string name="suo_invade_em">What is intruder selfie?</string>
+    <string name="suo_intru_i">Automatically take photos when unlocking with the wrong password.</string>
+
+    <string name="suo_error_msg">Tried too many times.</string>
+    <!--锁屏-->
+</resources>

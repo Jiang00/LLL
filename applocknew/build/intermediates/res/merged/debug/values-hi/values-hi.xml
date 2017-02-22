@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"मुख्यपृष्ठ पर नेविगेट करें"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"ऊपर नेविगेट करें"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"अधिक विकल्प"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"पूर्ण"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"सभी देखें"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"कोई एप्‍लिकेशन चुनें"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"बंद"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"चालू"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"खोजा जा रहा है…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"क्‍वेरी साफ़ करें"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"खोज क्वेरी"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"खोजें"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"क्वेरी सबमिट करें"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"ध्वनि खोज"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> को Google Play सेवाओं के साथ समस्या है. यदि समस्या बनी रहती है, तो कृपया सहायता के लिए डेवलपर से संपर्क करें."</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suo_again_draw_tu">फिर ड्रा</string>
+    <string name="suo_again_reset">पासवर्ड रीसेट करें</string>
+    <string name="suo_always">हमेशा ताला</string>
+    <string name="suo_app_open">सुपर AppLock चल रहा है</string>
+    <string name="suo_app_title">लॉक ऐप</string>
+    <string name="suo_app_to_open">सुपर AppLock पर बारी करने के लिए टैप</string>
+    <string name="suo_app_to_stop">सुपर AppLock बंद करने के लिए टैप करें</string>
+    <string name="suo_apply">यूज़</string>
+    <string name="suo_be_slot">संक्षिप्त बाहर निकलने के समय सीमा</string>
+    <string name="suo_be_soff">स्क्रीन बंद के बाद ताला</string>
+    <string name="suo_br_setting">संक्षिप्त सेटिंग</string>
+    <string name="suo_brief">संक्षिप्त बाहर निकलें</string>
+    <string name="suo_brief_detai">एक संक्षिप्त बाहर निकलने के बाद ताला नहीं</string>
+    <string name="suo_call">आने वाली कॉल</string>
+    <string name="suo_cancel">रद्द करना</string>
+    <string name="suo_con_password">पासवर्ड की पुष्टि कीजिये</string>
+    <string name="suo_confirm_tip">अपने पासकोड की पुष्टि</string>
+    <string name="suo_dec_title">बाहर ले जाएँ</string>
+    <string name="suo_done">पूरा</string>
+    <string name="suo_draw_path">छुपाएं पैटर्न आकर्षित पथ</string>
+    <string name="suo_draw_tu">एक पैटर्न ड्रा</string>
+    <string name="suo_en_move_in">में ले जाएँ</string>
+    <string name="suo_fake_one">घड़ी</string>
+    <string name="suo_fake_stree">मौसम</string>
+    <string name="suo_fake_two">कैलकुलेटर</string>
+    <string name="suo_file_nor">यहाँ कुछ भी नहीं</string>
+    <string name="suo_five">5 मिनट</string>
+    <string name="suo_five_conplain">शिकायत</string>
+    <string name="suo_got">समझ गया</string>
+    <string name="suo_hide">हाल ही में क्षुधा ताला</string>
+    <string name="suo_insta">एक नल नव स्थापित एप्लिकेशन को बंद करने के लिए।</string>
+    <string name="suo_intru">घुसपैठिए को चालू करें</string>
+    <string name="suo_intru_detail">घुसपैठिये विस्तार</string>
+    <string name="suo_intru_f_app">इस आदमी को अपने %1$s में तोड़ने की कोशिश कर रही है। हम उसे पकड़ने के लिए।</string>
+    <string name="suo_intru_help">मदद</string>
+    <string name="suo_intru_i">जब गलत पासवर्ड के साथ स्वचालित रूप से ताला खोलने तस्वीरें ले।</string>
+    <string name="suo_intru_selfie">घुसपैठिये सेल्फी</string>
+    <string name="suo_intru_set">घुसपैठिये सेटिंग्स</string>
+    <string name="suo_intru_shutter">शटर ध्वनि सक्षम करें</string>
+    <string name="suo_intru_tishi">किसी भी घुसपैठिए गलत पासवर्ड में प्रवेश करती है, तो हम आप के लिए उसके चेहरे पर कब्जा होगा।</string>
+    <string name="suo_intru_w_1">एक बार</string>
+    <string name="suo_intru_w_2">2 बार</string>
+    <string name="suo_intru_w_3">3 बार</string>
+    <string name="suo_intru_w_4">4 बार</string>
+    <string name="suo_intru_w_5">5 बार</string>
+    <string name="suo_intru_w_tit">गलत कोड में प्रवेश किया</string>
+    <string name="suo_later">बाद में</string>
+    <string name="suo_lock_app_f">छिपाया नहीं जा सकता %1$s （अपने फोन को निहित?）</string>
+    <string name="suo_lock_b">इस फ़ाइल में नहीं रखा जा सकता।</string>
+    <string name="suo_lock_chengg">%1$s ताला सफलता</string>
+    <string name="suo_lock_newyingyong">नए क्षुधा ताला</string>
+    <string name="suo_lock_success">%1$s सफलता छिपाने</string>
+    <string name="suo_lock_the_app">इस एप्लिकेशन के अनलॉक</string>
+    <string name="suo_lock_tishi">आप लॉक करने के लिए करना चाहते हैं \"%1$s\"？</string>
+    <string name="suo_mima_not_">पासवर्ड मेल नहीं</string>
+    <string name="suo_mima_small">कम से कम 3 डॉट्स ड्रा</string>
+    <string name="suo_next">अगली</string>
+    <string name="suo_notification_desc">अधिसूचना में दिखाएं टॉगल बटन</string>
+    <string name="suo_notification_show">टॉगल अधिसूचना</string>
+    <string name="suo_notlock_app_f">नहीं दिखा सकते हैं %1$s （अपने फोन को निहित?）</string>
+    <string name="suo_ok">ठीक</string>
+    <string name="suo_password_f">पासवर्ड सेट नहीं कर सकता</string>
+    <string name="suo_password_lock">पासवर्ड लॉक</string>
+    <string name="suo_password_tishi">पासवर्ड खाली नहीं हो सकता</string>
+    <string name="suo_pattern_lock">पैटर्न लॉक</string>
+    <string name="suo_permiss">अनुमति</string>
+    <string name="suo_permiss_grant">अनुदान</string>
+    <string name="suo_permiss_msg">गोपनीयता की सुरक्षा बढ़ाने के लिए, कृपया पहुँच की अनुमति की अनुमति देते हैं</string>
+    <string name="suo_protect">एक पासवर्ड के साथ क्षुधा को सुरक्षित रखें</string>
+    <string name="suo_protect_succ">सफलतापूर्वक सुरक्षित रखें</string>
+    <string name="suo_random">रैंडम कीबोर्ड</string>
+    <string name="suo_rate">मुझे 5 सितारों को रेट</string>
+    <string name="suo_ruqinzhe">घुसेड़नेवाला</string>
+    <string name="suo_ruqinzhe_de">आप के लिए पकड़ घुसपैठिया</string>
+    <string name="suo_ruqinzhe_off">घुसपैठिये डिटेक्टर बंद है</string>
+    <string name="suo_ruqinzhe_on">घुसपैठिये डिटेक्टर पर है</string>
+    <string name="suo_select_a">रक्षा के लिए क्षुधा का चयन करें</string>
+    <string name="suo_select_a_lo">ये एप्लिकेशन बंद कर रहे हैं</string>
+    <string name="suo_set_pass_title">पासवर्ड बनाएँ</string>
+    <string name="suo_set_password">पासवर्ड सेट सफलता</string>
+    <string name="suo_set_tip_password">किसी भी अंक दर्ज करें</string>
+    <string name="suo_setting">सेटिंग्स</string>
+    <string name="suo_setting_pattern">पैटर्न ड्रा</string>
+    <string name="suo_show_success">%1$sसफलता दिखाने</string>
+    <string name="suo_sousuo_hint">खोजने के लिए लिखें</string>
+    <string name="suo_start_rat">5 सितारे दर</string>
+    <string name="suo_stopped_l">सुपर AppLock बंद कर दिया है</string>
+    <string name="suo_submit">जमा करें</string>
+    <string name="suo_unlock">इस एप्लिकेशन को अनलॉक करने के लिए अपना पासवर्ड दर्ज</string>
+    <string name="suo_unlock_chengg">%1$s सफलता अनलॉक</string>
+    <string name="suo_until_sof">बंद स्क्रीन तक</string>
+    <string name="suo_use_passwora">अनलॉक करने के लिए पासवर्ड का उपयोग</string>
+    <string name="suo_use_patt">अनलॉक करने के लिए पैटर्न का उपयोग</string>
+</resources>

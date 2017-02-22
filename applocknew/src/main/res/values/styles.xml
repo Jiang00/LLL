@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Password_fang" parent="@style/AppTheme">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowAnimationStyle">@style/Mymation</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:colorBackgroundCacheHint">@null</item>
+        <item name="android:windowIsTranslucent">true</item>
+    </style>
+
+    <style name="Mymation" parent="@android:style/Animation.Dialog">
+        <item name="android:windowExitAnimation">@anim/scal_out</item>
+        <item name="android:windowEnterAnimation">@anim/scal_in</item>
+    </style>
+
+    <style name="Msg" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="buttonBarPositiveButtonStyle">@style/BtStyle</item>
+    </style>
+
+
+    <style name="BtStyle" parent="Widget.AppCompat.Button.Borderless">
+        <item name="android:textColor">@color/suo_inva</item>
+        <item name="android:background">@drawable/select_green</item>
+    </style>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/suo_app_pri</item>
+        <item name="colorPrimaryDark">@color/suo_app_pri</item>
+        <item name="colorAccent">@color/colorAccent</item>
+        <item name="colorControlHighlight">@color/colorPrimary</item>
+    </style>
+    <style name="SetActivity_th" parent="@style/AppTheme">
+    </style>
+
+
+
+    <style name="show_dia" parent="@android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item><!--边框-->
+        <item name="android:windowIsFloating">true</item><!--是否浮现在activity之上-->
+        <item name="android:windowIsTranslucent">false</item><!--半透明-->
+        <item name="android:windowNoTitle">true</item><!--无标题-->
+        <item name="android:windowBackground">@color/touming</item><!--背景透明-->
+        <item name="android:backgroundDimEnabled">true</item><!--模糊-->
+
+</style>
+
+<!--入侵者设置dialog-->
+    <style name="invade_dia" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground">@color/touming</item>
+        <item name="android:windowIsFloating">true</item>
+    </style>
+
+</resources>

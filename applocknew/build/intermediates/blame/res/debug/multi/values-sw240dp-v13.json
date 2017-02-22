@@ -1,0 +1,368 @@
+[
+    {
+        "outputFile": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sw240dp-v13\\values-sw240dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 41,
+                    "endOffset": 92
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 185,
+                        "endColumn": 41,
+                        "endOffset": 222
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 97,
+                    "endColumn": 41,
+                    "endOffset": 134
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 142,
+                        "endColumn": 41,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 139,
+                    "endColumn": 42,
+                    "endOffset": 177
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 654,
+                        "endColumn": 42,
+                        "endOffset": 692
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 182,
+                    "endColumn": 40,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 877,
+                        "endColumn": 40,
+                        "endOffset": 913
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 42,
+                    "endOffset": 261
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 321,
+                        "endColumn": 42,
+                        "endOffset": 359
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 266,
+                    "endColumn": 40,
+                    "endOffset": 302
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 100,
+                        "endColumn": 40,
+                        "endOffset": 136
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 307,
+                    "endColumn": 41,
+                    "endOffset": 344
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 57,
+                        "endColumn": 41,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 349,
+                    "endColumn": 40,
+                    "endOffset": 385
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 698,
+                        "endColumn": 40,
+                        "endOffset": 734
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 390,
+                    "endColumn": 43,
+                    "endOffset": 429
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 564,
+                        "endColumn": 43,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 434,
+                    "endColumn": 43,
+                    "endOffset": 473
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 365,
+                        "endColumn": 43,
+                        "endOffset": 404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 478,
+                    "endColumn": 41,
+                    "endOffset": 515
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 740,
+                        "endColumn": 41,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 520,
+                    "endColumn": 43,
+                    "endOffset": 559
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 609,
+                        "endColumn": 43,
+                        "endOffset": 648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 564,
+                    "endColumn": 41,
+                    "endOffset": 601
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 228,
+                        "endColumn": 41,
+                        "endOffset": 265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 606,
+                    "endColumn": 45,
+                    "endOffset": 647
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 830,
+                        "endColumn": 45,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 652,
+                    "endColumn": 50,
+                    "endOffset": 698
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 410,
+                        "endColumn": 50,
+                        "endOffset": 456
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 703,
+                    "endColumn": 48,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 271,
+                        "endColumn": 48,
+                        "endOffset": 315
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 49,
+                    "endOffset": 797
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 462,
+                        "endColumn": 49,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 802,
+                    "endColumn": 49,
+                    "endOffset": 847
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 513,
+                        "endColumn": 49,
+                        "endOffset": 558
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 852,
+                    "endColumn": 45,
+                    "endOffset": 893
+                },
+                "from": {
+                    "file": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\values-sw240dp\\dimens.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 45,
+                        "endOffset": 824
+                    }
+                }
+            }
+        ]
+    }
+]

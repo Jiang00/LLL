@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="_suo_rate_good">جيد</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"التنقل إلى الشاشة الرئيسية"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s، %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s، %2$s، %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"التنقل إلى أعلى"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"خيارات إضافية"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"تم"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"عرض الكل"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"اختيار تطبيق"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"إيقاف"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"تشغيل"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"بحث…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"محو طلب البحث"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"طلب البحث"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"بحث"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"إرسال طلب البحث"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"البحث الصوتي"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"‏تواجه <ns1:g id="APP_NAME">%1$s</ns1:g> مشكلة في خدمات Google Play. إذا ظلت المشكلة قائمة، فيُرجى الاتصال بمطوِّر البرامج للحصول على مساعدة."</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"+999"</string>
+    <string name="suo_again_draw_tu">رسم مرة أخرى</string>
+    <string name="suo_again_reset">إعادة تعيين كلمة المرور</string>
+    <string name="suo_always">قفل دائما</string>
+    <string name="suo_app_open">يتم تشغيل التطبيقات سوبر قفل</string>
+    <string name="suo_app_to_open">انقر لتشغيل التطبيقات سوبر قفل</string>
+    <string name="suo_app_to_stop">انقر لإيقاف التطبيقات سوبر قفل</string>
+    <string name="suo_apply">استعمال</string>
+    <string name="suo_be_slot">خروج موجز المهلة</string>
+    <string name="suo_be_soff">بعد قفل الشاشة قبالة</string>
+    <string name="suo_br_setting">إعداد موجز</string>
+    <string name="suo_brief">خروج موجز</string>
+    <string name="suo_brief_detai">لا ريلوك قبل خروج موجز</string>
+    <string name="suo_call">مكالمة واردة</string>
+    <string name="suo_cancel">إلغاء</string>
+    <string name="suo_con_password">تأكيد كلمة المرور</string>
+    <string name="suo_confirm_tip">تدخل مرة أخرى لتأكيد</string>
+    <string name="suo_dec_title">الخروج</string>
+    <string name="suo_done">منته</string>
+    <string name="suo_draw_path">إخفاء مسار نمط التعادل</string>
+    <string name="suo_draw_tu">رسم نمط فتح</string>
+    <string name="suo_emal">البريد الإلكتروني</string>
+    <string name="suo_en_move_in">التحرك في</string>
+    <string name="suo_fake_one">مرة</string>
+    <string name="suo_fake_stree">طقس</string>
+    <string name="suo_fake_two">آلة حاسبة</string>
+    <string name="suo_file_nor">لا شيء هنا</string>
+    <string name="suo_five">5 دقائق</string>
+    <string name="suo_five_butt">5 نجوم من التصويت</string>
+    <string name="suo_five_conplain">تشكى</string>
+    <string name="suo_five_start">ونحن ملتزمون بحماية خصوصيتك. هل يمكن أن تعطينا-تصنيف 5 نجوم؟</string>
+    <string name="suo_got">حسنا</string>
+    <string name="suo_hide">قفل التطبيقات الأخيرة</string>
+    <string name="suo_insta">واحد الصنبور لقفل التطبيق المثبتة حديثا</string>
+    <string name="suo_intru">تمكين الدخيل التقاط الصور</string>
+    <string name="suo_intru_detail">تفاصيل الدخيل</string>
+    <string name="suo_intru_f_app">هذا الرجل يحاول أن يكسر في %1$s الخاص بك. نحن قبض عليه.</string>
+    <string name="suo_intru_help">مساعدة</string>
+    <string name="suo_intru_i">التقاط الصور تلقائيا عند فتح مع كلمة مرور خاطئة.</string>
+    <string name="suo_intru_selfie">الصورة الدخيل</string>
+    <string name="suo_intru_set">ضبط متسلل</string>
+    <string name="suo_intru_shutter">تمكين مصراع الصوت</string>
+    <string name="suo_intru_tishi">إذا أي متسلل يدخل كلمة مرور خاطئة، ونحن سوف التقاط وجهه بالنسبة لك.</string>
+    <string name="suo_intru_w_1">1 مرة</string>
+    <string name="suo_intru_w_2">2 مرات</string>
+    <string name="suo_intru_w_3">3 مرات</string>
+    <string name="suo_intru_w_4">4 مرات</string>
+    <string name="suo_intru_w_5">5 مرات</string>
+    <string name="suo_intru_w_tit">شفرة خاطئة</string>
+    <string name="suo_later">فيما بعد</string>
+    <string name="suo_lock_app_f">"%1$s لا يمكن إخفاء"</string>
+    <string name="suo_lock_b">"لا يمكن تأمين هذا الملف"</string>
+    <string name="suo_lock_chengg">%1$s نجاح القفل</string>
+    <string name="suo_lock_newyingyong">قفل تطبيقات جديدة</string>
+    <string name="suo_lock_success">%1$s إخفاء النجاح</string>
+    <string name="suo_lock_the_app">فتح هذا التطبيق</string>
+    <string name="suo_lock_tishi">\"%1$s\" هل تريد قفل</string>
+    <string name="suo_mima_not_">.تأكيد كلمة المرور غير صحيحة</string>
+    <string name="suo_mima_small">Draw at least 3 dots</string>
+    <string name="suo_next">التالى</string>
+    <string name="suo_notification_desc">مشاهدة زر تبديل في الإخطار</string>
+    <string name="suo_notification_show">الإخطار تبديل</string>
+    <string name="suo_notlock_app_f">"%1$s لا يمكن أن تظهر"</string>
+    <string name="suo_ok">حسنا</string>
+    <string name="suo_password_f">"لا يمكن تعيين كلمة المرور"</string>
+    <string name="suo_password_lock">كلمة السر قفل</string>
+    <string name="suo_password_tishi">"كلمة المرور لا يمكن أن يكون فارغ"</string>
+    <string name="suo_pattern_lock">نمط قفل</string>
+    <string name="suo_permiss">Permission</string>
+    <string name="suo_permiss_grant">Grant</string>
+    <string name="suo_permiss_msg">"تعزيز حماية الخصوصية، واسمحوا إذن الوصول"</string>
+    <string name="suo_protect">حماية التطبيقات مع كلمة السر</string>
+    <string name="suo_protect_succ">حماية بنجاح</string>
+    <string name="suo_random">لوحة المفاتيح عشوائي</string>
+    <string name="suo_rate">☆معدل لي 5 نجوم</string>
+    <string name="suo_rate_bad">سيئة</string>
+    <string name="suo_rate_msg">إذا كنت تريد منا، يرجى اعطاءنا-تصنيف 5 نجوم.</string>
+    <string name="suo_rate_t">معدل سوبر قفل التطبيق</string>
+    <string name="suo_resu_five">سوف مديحك تشجعنا نفعل ما هو أفضل.</string>
+    <string name="suo_resu_go">اريد ان اقول...</string>
+    <string name="suo_ruqinzhe">المتطفل</string>
+    <string name="suo_ruqinzhe_de">الدخيل الصيد بالنسبة لك</string>
+    <string name="suo_ruqinzhe_off">كشف الدخيل هو خارج</string>
+    <string name="suo_ruqinzhe_on">كشف الدخيل على</string>
+    <string name="suo_select_a">اختر التطبيقات لحماية</string>
+    <string name="suo_select_a_lo">وتخوض هذه التطبيقات</string>
+    <string name="suo_set_pass_title">ضبط كلمة السر</string>
+    <string name="suo_set_password">ضبط كلمة السر نجاح</string>
+    <string name="suo_set_tip_password">إدخال أي الأرقام</string>
+    <string name="suo_setting">الإعدادات</string>
+    <string name="suo_setting_pattern">رسم نمط</string>
+    <string name="suo_show_success">%1$s تظهر نجاح</string>
+    <string name="suo_sousuo_hint">اكتب هنا للبحث</string>
+    <string name="suo_start_rat">5 نجوم السعر</string>
+    <string name="suo_stopped_l">تم إيقاف سوبر التطبيقات قفل</string>
+    <string name="suo_submit">عرض</string>
+    <string name="suo_unlock">أدخل كلمة المرور لفتح هذا التطبيق</string>
+    <string name="suo_unlock_chengg">%1$s فتح نجاح</string>
+    <string name="suo_until_sof">حتى قبالة الشاشة</string>
+    <string name="suo_use_passwora">استخدام كلمة السر لفتح</string>
+    <string name="suo_use_patt">استخدام نمط لفتح</string>
+</resources>

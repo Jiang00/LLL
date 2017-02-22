@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="_suo_rate_good">GUT</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Zur Startseite"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s: %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s: %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Nach oben"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Weitere Optionen"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Fertig"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Alle ansehen"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"App auswählen"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"Aus"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"An"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Suchen…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Suchanfrage löschen"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Suchanfrage"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Suchen"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Suchanfrage senden"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Sprachsuche"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Freigeben für"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Freigeben für %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Minimieren"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> hat Probleme mit Google Play-Diensten. Wenn das Problem weiterhin besteht, kontaktieren Sie bitte den Entwickler."</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suo_again_draw_tu">Zeichnen Sie ein Entsperrungsmuster</string>
+    <string name="suo_again_reset">Passwort zurücksetzen</string>
+    <string name="suo_always">Immer sperren</string>
+    <string name="suo_app_open">Super AppLock läuft</string>
+    <string name="suo_app_title">App Lock</string>
+    <string name="suo_app_to_open">Tippen hier zu laufen</string>
+    <string name="suo_app_to_stop">Tippen hier zu halten</string>
+    <string name="suo_apply">Anwenden</string>
+    <string name="suo_be_slot">Zeitlimit kurze Abwesenheit</string>
+    <string name="suo_be_soff">zu sperren, nachdem Bildschirm aus</string>
+    <string name="suo_br_setting">Kurze Einstellung</string>
+    <string name="suo_brief">Kurze Abwesenheit zulassen</string>
+    <string name="suo_brief_detai">Ein erneutes Entsperren ist bei nur kurzer Abwesenheit nicht erforderlich</string>
+    <string name="suo_call">Eingehender Anruf</string>
+    <string name="suo_cancel">Abbreschen</string>
+    <string name="suo_con_password">Bestätigen Sie Passwort.</string>
+    <string name="suo_confirm_tip">Bestätigen Sie das Kennwort</string>
+    <string name="suo_dec_title">ausziehen</string>
+    <string name="suo_done">Komplett</string>
+    <string name="suo_draw_path">Ausblenden Muster Sperre Pfad</string>
+    <string name="suo_draw_tu">Zeichnen Sie ein Entsperrungsmuster</string>
+    <string name="suo_emal">Email</string>
+    <string name="suo_en_move_in">verschieben nach</string>
+    <string name="suo_fake_one">Uhr</string>
+    <string name="suo_fake_stree">Wetter</string>
+    <string name="suo_fake_two">Rechner</string>
+    <string name="suo_file_nor">Es gibt hier nichts.</string>
+    <string name="suo_five">5 Minuten</string>
+    <string name="suo_five_butt">5-Sterne-Rating</string>
+    <string name="suo_five_conplain">BESCHWEREN</string>
+    <string name="suo_five_start">Wir sind verpflichtet, Ihre Privatsphäre zu schützen. Können Sie uns ein 5-Sterne-Bewertung geben?</string>
+    <string name="suo_got">Verstanden</string>
+    <string name="suo_hide">Sperren letzten apps</string>
+    <string name="suo_insta">Nachdem Sie die neue App installiert haben,können Sie diese mit einem Tipp sperren.</string>
+    <string name="suo_intru">Aktivieren Eindringling Fotografieren</string>
+    <string name="suo_intru_detail">Intruder info</string>
+    <string name="suo_intru_f_app">Dieser Kerl versucht, in Ihrem %1$s brechen. Wir fangen ihn.</string>
+    <string name="suo_intru_help">Hilfe</string>
+    <string name="suo_intru_i">Fotos automatisch nehmen, wenn sie mit dem falschen Passwort entsperren.</string>
+    <string name="suo_intru_selfie">Eindringling Bild</string>
+    <string name="suo_intru_set">Intruder Einstellungen</string>
+    <string name="suo_intru_shutter">Auslöserton aktivieren</string>
+    <string name="suo_intru_tishi">Sollte ein Eindringling geben falsche Passwort, werden wir sein Gesicht zu
+        erfassen.
+    </string>
+    <string name="suo_intru_w_1">1 mal</string>
+    <string name="suo_intru_w_2">2 mal</string>
+    <string name="suo_intru_w_3">3 mal</string>
+    <string name="suo_intru_w_4">4 mal</string>
+    <string name="suo_intru_w_5">5 mal</string>
+    <string name="suo_intru_w_tit">Falscher Code</string>
+    <string name="suo_later">Später</string>
+    <string name="suo_lock_app_f">Kann nicht verstecken die App（Your phone rooted?)</string>
+    <string name="suo_lock_b">"Diese Datei kann nicht verschlüsselt werden."</string>
+    <string name="suo_lock_chengg">%1$s gesperrt</string>
+    <string name="suo_lock_newyingyong">Die neue App Sperren</string>
+    <string name="suo_lock_success">%1$s versteckt</string>
+    <string name="suo_lock_the_app">Entsperren die App</string>
+    <string name="suo_lock_tishi">Möchten Sie \"%1$s\" sperren?</string>
+    <string name="suo_mima_not_">Bestätigung des Passwortes ist nicht korrekt</string>
+    <string name="suo_mima_small">Zeichnen Sie mindestens 3 Punkte.</string>
+    <string name="suo_next">Nächste</string>
+    <string name="suo_notification_desc">In der Benachrichtigungsleiste angezeigt</string>
+    <string name="suo_notification_show">Schnellsperrtaste</string>
+    <string name="suo_notlock_app_f">"Die App kann nicht zeigen"</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_password_f">"Passwort nicht gesetzt"</string>
+    <string name="suo_password_lock">Passwortsperre</string>
+    <string name="suo_password_tishi">"Bitte geben Sie mindestens einen Eintrag aus"</string>
+    <string name="suo_pattern_lock">Entsperremuster</string>
+    <string name="suo_permiss">Erlaubnis</string>
+    <string name="suo_permiss_grant">Erteilen</string>
+    <string name="suo_permiss_msg">"Erhöhen Sie den Schutz der Privatsphäre, erlauben die Zugriffsberechtigung."</string>
+    <string name="suo_protect">Schützen Sie Anwendungen mit einem Passwort</string>
+    <string name="suo_protect_succ">Erfolgreich geschützt</string>
+    <string name="suo_random">Zufallstastatur</string>
+    <string name="suo_rate">Fünf Sterne</string>
+    <string name="suo_rate_bad">SCHLECHT</string>
+    <string name="suo_rate_msg">Wenn Sie möchten, geben Sie uns bitte eine 5-Sterne-Bewertung.</string>
+    <string name="suo_rate_t">Bewerten Super-AppLock</string>
+    <string name="suo_resu_five">Ihr Lob wird uns ermutigen, es besser machen.</string>
+    <string name="suo_resu_go">Ich möchte sagen...</string>
+    <string name="suo_ruqinzhe">Eindringling</string>
+    <string name="suo_ruqinzhe_de">Fang Eindringling für Sie</string>
+    <string name="suo_ruqinzhe_off">Einbruchmelder ausgeschaltet</string>
+    <string name="suo_ruqinzhe_on">Einbruchmelder auf</string>
+    <string name="suo_select_a">Wählen Sie Apps zum Schutz</string>
+    <string name="suo_select_a_lo">Diese Anwendungen sind gesperrt</string>
+    <string name="suo_set_pass_title">Erstellen Sie Passwort</string>
+    <string name="suo_set_password">Passwort gespeichert</string>
+    <string name="suo_set_tip_password">Geben Sie alle Stellen</string>
+    <string name="suo_setting">Einstellungen</string>
+    <string name="suo_setting_pattern">Zeichnen Muster</string>
+    <string name="suo_show_success">%1$s gezeigt</string>
+    <string name="suo_sousuo_hint">Tippen zu suchen</string>
+    <string name="suo_start_rat">5 Sternen Bewerten</string>
+    <string name="suo_stopped_l">Super AppLock angehalten</string>
+    <string name="suo_submit">Einreichen</string>
+    <string name="suo_unlock">Geben Sie das Passwort, um diese App zu entsperren</string>
+    <string name="suo_unlock_chengg">%1$s entsperrt</string>
+    <string name="suo_until_sof">Bis der Bildschirm gesperrt ist</string>
+    <string name="suo_use_passwora">verwenden Passwortsperre</string>
+    <string name="suo_use_patt">verwenden Pattern</string>
+</resources>

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\suo_lable_backg.xml",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\drawable-mdpi\\suo_lable_backg.xml"
+    },
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4\\security_lable_backg.xml",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\drawable-mdpi\\security_lable_backg.xml"
+    }
+]

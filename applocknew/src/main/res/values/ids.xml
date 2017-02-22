@@ -1,0 +1,32 @@
+<resources>
+    <item type="id" name="icon_id"  />
+    <item type="id" name="lockscreen_red"  />
+    <item type="id" name="download"  />
+    <item type="id" name="lockscreen_frame_layout"  />
+    <item type="id" name="suo_title_bar_te"  />
+    <item type="id" name="suo_backg"  />
+    <item type="id" name="suo_lp_ll"  />
+    <item type="id" name="suo_password_cn"  />
+    <item type="id" name="numpad" />
+    <item type="id" name="suo_bt_n_1" />
+    <item type="id" name="suo_bt_n_2" />
+    <item type="id" name="suo_bt_n_3" />
+    <item type="id" name="suo_bt_n_4"  />
+    <item type="id" name="suo_bt_n_5" />
+    <item type="id" name="suo_bt_n_6"/>
+    <item type="id" name="suo_bt_n_7"/>
+    <item type="id" name="suo_bt_n_8"/>
+    <item type="id" name="suo_bt_n_9"/>
+    <item type="id" name="suo_bt_n_0" />
+    <item type="id" name="suo_cha"/>
+    <item type="id" name="suo_ok"  />
+    <item type="id" name="brief_setting"  />
+    <item type="id" name="overflow_stub"  />
+    <item type="id" name="suo_r_dot"  />
+    <item type="id" name="use_pattern"  />
+    <item type="id" name="suo_frag_co"  />
+    <item type="id" name="action_bar_passwd"  />
+    <item type="id" name="app_name"  />
+    <item type="id" name="dly"  />
+    <item type="id" name="overflow_id"  />
+</resources>

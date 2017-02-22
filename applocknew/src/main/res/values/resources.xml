@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="suo_bt_backg_normal">@color/suo_app_pri</drawable>
+    <drawable name="suo_bt_back_cil">@color/suo_app_pri_pass</drawable>
+    <drawable name="suo_bt_backg_dis">#ff858585</drawable>
+</resources>

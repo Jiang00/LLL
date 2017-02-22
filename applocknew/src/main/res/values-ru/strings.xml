@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="noTranslation">
+    <string name="suo_done">сделано</string>
+    <string name="suo_mima_not_">Подтвердите пароль неправильную.</string>
+    <string name="suo_password_tishi">"Пароль не может быть пустым"</string>
+    <string name="suo_app_title">Блокировка App</string>
+    <string name="suo_rate"> Оценить мне</string>
+    <string name="suo_setting">настройки</string>
+    <string name="suo_lock_b">"Этот файл не может быть заблокирован."</string>
+    <string name="suo_lock_app_f">"Невозможно скрыть %1$S(Ваш телефон корнями?)"</string>
+    <string name="suo_notlock_app_f">"Невозможно отобразить %1$S(Ваш телефон корнями?)"</string>
+    <string name="suo_lock_success">Скрыть %1$S успех</string>
+    <string name="suo_show_success">Показать %1$S успех</string>
+    <string name="suo_sousuo_hint">Типа здесь искать</string>
+    <string name="suo_cancel">отменить</string>
+    <string name="suo_file_nor">Ничего здесь</string>
+    <string name="suo_draw_tu">Нарисовать шаблон разблокировки</string>
+    <string name="suo_set_password">Пароль устанавливается успех</string>
+    <string name="suo_password_f">"Невозможно задать пароль"</string>
+    <string name="suo_next">следующий</string>
+    <string name="suo_password_lock">пароль</string>
+    <string name="suo_pattern_lock">рисунок</string>
+    <string name="suo_again_reset">Сбросить пароль</string>
+    <string name="suo_stopped_l">Супер App Блокировка остановлен</string>
+    <string name="suo_app_open">Супер App Блокировка работает</string>
+    <string name="suo_app_to_stop">Коснитесь для выключить Супер App Блокировка</string>
+    <string name="suo_app_to_open">Коснитесь для включить Супер App блокировки</string>
+    <string name="suo_notification_show">Переключить уведомления</string>
+    <string name="suo_notification_desc">Показать кнопка-переключатель в уведомлении</string>
+    <string name="suo_unlock_chengg">Разблокируйте успех %1$S</string>
+    <string name="suo_lock_chengg">Блокировка успех %1$S</string>
+    <string name="suo_brief">Краткие Выход из</string>
+    <string name="suo_brief_detai">Не его автоматической блокировке прежде краткого выхода</string>
+    <string name="suo_be_slot">Временных ограничений Краткое Выход из</string>
+    <string name="suo_lock_newyingyong">Блокировка новых приложений</string>
+    <string name="suo_insta">Один кран, чтобы заблокировать вновь установленного приложения.</string>
+    <string name="suo_random">Случайные клавиатура</string>
+    <string name="suo_five">5 минут</string>
+    <string name="suo_until_sof">Вплоть до выключенным экраном</string>
+    <string name="suo_lock_tishi">Хотите, чтобы зафиксировать \"%1$S\"?</string>
+    <string name="suo_dec_title">съезжать</string>
+    <string name="suo_ok">хОРОШО</string>
+    <string name="suo_en_move_in">Переместите в</string>
+    <string name="suo_set_pass_title">набор пароль</string>
+    <string name="suo_con_password">ПОДТВЕРДИТЕ ПАРОЛЬ</string>
+    <string name="suo_later">позже</string>
+    <string name="suo_br_setting">Краткое Настройка</string>
+    <string name="suo_lock_the_app">Разблокируйте это приложение</string>
+    <string name="suo_unlock">введите пароль для разблокировки это приложение</string>
+    <string name="suo_always">Всегда запирайте</string>
+    <string name="suo_apply">Применить</string>
+    <string name="suo_use_patt">Используйте шаблон для разблокировки</string>
+    <string name="suo_mima_small">Draw at least 3 dots</string>
+    <string name="suo_permiss_grant">Grant</string>
+    <string name="suo_permiss_msg">"Повышение защиты конфиденциальности, пожалуйста, позвольте разрешение доступа</string>
+    <string name="suo_permiss">Permission</string>
+    <string name="suo_use_passwora">Использовать пароль для разблокировки</string>
+    <string name="suo_setting_pattern">Подтвердите шаблон </string>
+    <string name="suo_again_draw_tu">перерисовывать</string>
+    <string name="suo_select_a">Выберите приложения для защиты</string>
+    <string name="suo_protect_succ">Защитите успешно</string>
+    <string name="suo_protect">Защита приложений с помощью пароля</string>
+    <string name="suo_select_a_lo">Эти приложения блокируются</string>
+    <string name="suo_draw_path">Скрыть модели ничья путь</string>
+    <string name="suo_confirm_tip">подтвердите свой пароль</string>
+    <string name="suo_set_tip_password">Введите любые цифры</string>
+    <string name="suo_be_soff">заблокировать после отключения экрана</string>
+    <string name="suo_call">Входящий звонок</string>
+    <string name="suo_ruqinzhe">нарушитель</string>
+    <string name="suo_ruqinzhe_de">поймать нарушителя для вас</string>
+    <string name="suo_ruqinzhe_off">Извещатель выключен</string>
+    <string name="suo_ruqinzhe_on">Охранный извещатель на</string>
+    <string name="suo_hide">скрыть недавний APP</string>
+    <string name="suo_fake_one">часы</string>
+    <string name="suo_fake_two">калькулятор</string>
+    <string name="suo_fake_stree">погода</string>
+    <string name="suo_intru">Включите нарушителя</string>
+
+
+    <string name="suo_rate_t">Оценить Супер блокировка приложения</string>
+    <string name="suo_rate_msg">Если вы любите нас, пожалуйста, дайте нам 5-звездочный рейтинг.</string>
+    <string name="suo_rate_bad">ПЛОХО</string>
+    <string name="_suo_rate_good">ХОРОШО</string>
+    <string name="suo_resu_go">Я хочу сказать...</string>
+    <string name="suo_emal">E-mail</string>
+
+    <string name="suo_resu_five">Ваша похвала будет побуждать нас делать лучше.</string>
+    <string name="suo_five_start">Мы стремимся защитить вашу личную жизнь. Не могли бы вы дать нам 5-звездочный рейтинг?</string>
+    <string name="suo_five_butt">5-Star-Rating</string>
+	<string name="suo_submit">Отправить</string>
+    <string name="suo_five_conplain">ЖАЛОВАТЬСЯ</string>
+	
+    <string name="suo_start_rat">5-Stars-Рейтинг</string>
+	<!--入侵者-->
+    <string name="suo_intru_f_app">Этот парень пытается подглядывать %1$s . Мы поймать его.</string>
+    <string name="suo_intru_selfie">нарушителя selfie</string>
+    <string name="suo_intru_w_tit">Ввели неправильный код</string>
+    <string name="suo_intru_detail">нарушителя Инфо</string>
+    <string name="suo_intru_help">Помогите</string>
+    <string name="suo_intru_shutter">Включить звук</string>
+    <string name="suo_got">знаю</string>
+    <string name="suo_intru_tishi">Если какой-либо злоумышленник введите неверный пароль, мы захватить его лицо.
+    </string>
+    <string name="suo_intru_set">установка нарушителя</string>
+    <string name="suo_intru_w_5">5 раз</string>
+    <string name="suo_intru_w_4">4 раз</string>
+    <string name="suo_intru_w_1">1 раз</string>
+    <string name="suo_intru_w_3">3 раз</string>
+    <string name="suo_intru_w_2">2 раз</string>
+    <string name="suo_intru_i">Автоматически снимать фотографии при разблокировке с неправильным паролем.</string>
+	
+	 <!--锁屏-->
+</resources>
+

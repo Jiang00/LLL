@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.suo.theme.MyFrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/suo_appbeijing">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center_horizontal"
+        android:orientation="vertical">
+
+        <include layout="@layout/app_password_a"
+            />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:orientation="vertical">
+
+            <ImageView
+                android:tag="app_ico"
+                android:layout_width="@dimen/suo_ic_s"
+                android:layout_height="@dimen/suo_ic_s" />
+
+            <TextView
+                android:tag="app_tip"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="16dp"
+                android:gravity="center"
+                android:textColor="@android:color/black"
+                android:textSize="18sp"
+                android:visibility="gone" />
+        </LinearLayout>
+
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="2.5"
+            android:gravity="center"
+            android:orientation="vertical"
+            >
+            <LinearLayout
+                android:tag="app_wang_msg_lin"
+            android:visibility="invisible"
+            android:orientation="horizontal"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+            <TextView
+                android:tag="app_wang_msg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/suo_error_msg"
+            android:textColor="@color/suo_white_87"
+            android:fontFamily="sans-serif"
+            android:textSize="15sp"
+            />
+
+            <TextView
+                android:tag="app_wang_d"
+            android:textSize="15sp"
+            android:textColor="@color/suo_white_87"
+            android:layout_marginLeft="8dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+            </LinearLayout>
+            <com.suo.theme.SuoPatternView
+                android:tag="app_pattern"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp"
+            android:gravity="bottom"
+            android:orientation="horizontal">
+
+            <Button
+                android:tag="app_can_pp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="12dp"
+                android:layout_marginRight="12dp"
+                android:layout_weight="1"
+                android:text="@string/suo_use_passwora"
+                android:textColor="@color/bt_tog"
+                android:textSize="20sp" />
+
+            <Button
+                android:tag="app_unl_pp"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:textColor="@color/bt_tog"
+                android:textSize="20sp"
+                android:visibility="gone" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <include layout="@layout/app_yichu_me_st" />
+
+</com.suo.theme.MyFrameLayout>

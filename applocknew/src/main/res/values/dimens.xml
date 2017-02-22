@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="suo_me_gao">35dp</dimen>
+    <dimen name="suo_ic_tt">24dp</dimen>
+    <dimen name="suo_bt_ad_">48dp</dimen>
+    <dimen name="suo_app_ll">48dp</dimen>
+    <dimen name="suo_not_ic">48dp</dimen>
+    <dimen name="suo_password_rdor">12dp</dimen>
+    <dimen name="suo_ic_s">50.0dip</dimen>
+    <dimen name="suo_nm_rdor">48dip</dimen>
+    <dimen name="suo_password_d_s">12.0dip</dimen>
+    <dimen name="suo_pattern_xian_s">8.0dip</dimen>
+    <dimen name="suo_pattern_cie">32.0dip</dimen>
+    <dimen name="suo_pattern_kuan">8.0dip</dimen>
+    <dimen name="suo_nm_ma">26.0dip</dimen>
+    <dimen name="suo_nm_vm">12.0dip</dimen>
+    <dimen name="suo_bt_co">2.0dip</dimen>
+    <dimen name="suo_nm_fo">28sp</dimen>
+    <dimen name="suo_nm_stro">1dp</dimen>
+    <dimen name="suo_pattern_sto">1dp</dimen>
+    <dimen name="suo_parrern_wai">1dp</dimen>
+    <dimen name="suo_pattern_m">35.0dp</dimen>
+    <dimen name="suo_clo_m">50dp</dimen>
+
+</resources>

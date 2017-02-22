@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/suo_list_backg"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:gravity="center"
+        android:background="@color/suo_app_pri"
+        android:text="@string/app_name"
+        android:textColor="#fff"
+        android:textSize="20sp" />
+
+    <ListView
+        android:id="@+id/suo_list_v"
+        android:layout_width="match_parent"
+        android:layout_marginLeft="57dp"
+        android:layout_marginRight="57dp"
+        android:divider="@drawable/suo_list_de"
+        android:dividerHeight="2px"
+        android:layout_height="0dp"
+        android:scrollbars="none"
+        android:layout_weight="1"/>
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="55dp"
+        android:textSize="18sp"
+        android:background="@drawable/suo_bt_backg_"
+        android:text="@string/suo_set_pass_title"
+        android:id="@+id/suo_main_next"
+        android:textColor="#fff"/>
+</LinearLayout>

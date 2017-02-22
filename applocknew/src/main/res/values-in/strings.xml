@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="suo_done">Selesai</string>
+    <string name="suo_mima_not_">Sandi tidak cocok</string>
+    <string name="suo_password_tishi">"Sandi tidak boleh kosong"</string>
+    <string name="suo_app_title">Mengunci App</string>
+    <string name="suo_rate"> Menilainya saya</string>
+    <string name="suo_setting">Pengaturan</string>
+    <string name="suo_lock_b">Berkas ini tidak dapat dikunci.</string>
+    <string name="suo_lock_app_f">"Tidak bisa menyembunyikan%1$s (Telepon Anda berakar?)"</string>
+    <string name="suo_notlock_app_f">"Tidak bisa menunjukkan%1$s (Telepon Anda berakar?)"</string>
+    <string name="suo_lock_success">Sembunyikan %1$s sukses</string>
+    <string name="suo_show_success">Tampilkan %1$s sukses</string>
+    <string name="suo_sousuo_hint">Ketik di sini untuk mencari</string>
+    <string name="suo_cancel">Tidak Jadi</string>
+    <string name="suo_file_nor">Apa di sini</string>
+    <string name="suo_draw_tu">Menggambar pola</string>
+    <string name="suo_use_passwora">Gunakan Kata Sandi Untuk Aktifkan</string>
+    <string name="suo_set_password">Sandi mengatur sukses</string>
+    <string name="suo_password_f">"Tidak bisa mengatur sandi"</string>
+    <string name="suo_next">Berikutnya</string>
+    <string name="suo_password_lock">Ganti Kata Sandi</string>
+    <string name="suo_pattern_lock">Ganti Kata Pola</string>
+    <string name="suo_again_reset">Ulang sandi</string>
+    <string name="suo_stopped_l">Super AppLock dihentikan</string>
+    <string name="suo_app_open">Super AppLock berjalan</string>
+    <string name="suo_app_to_stop">Tekan untuk mematikan Super AppLock</string>
+    <string name="suo_app_to_open">Tekan untuk mengaktifkan Super AppLock</string>
+    <string name="suo_notification_show">Pemberitahuan beralih</string>
+    <string name="suo_notification_desc">Tampilkan tombol toggle dalam pemberitahuan</string>
+    <string name="suo_unlock_chengg">Membuka %1$s sukses</string>
+    <string name="suo_lock_chengg">Keberhasilan %1$s sukses </string>
+    <string name="suo_brief">Keluar singkat</string>
+    <string name="suo_brief_detai">Belum mengunci kembali sebelum keluar singkat</string>
+    <string name="suo_be_slot">Batas waktu keluar singkat</string>
+    <string name="suo_lock_newyingyong">Kunci aplikasi baru</string>
+    <string name="suo_insta">Satu tekan untuk mengunci aplikasi yang baru diinstal.</string>
+    <string name="suo_random">Keyboard acak</string>
+    <string name="suo_five">5 menit</string>
+    <string name="suo_until_sof">Sampai layar off</string>
+    <string name="suo_lock_tishi">Apakah Anda ingin mengunci \"%1$s\"?</string>
+    <string name="suo_dec_title">Pindah</string>
+    <string name="suo_ok">OKE</string>
+    <string name="suo_en_move_in">Pindah</string>
+    <string name="suo_set_pass_title">DITETAPKAN SANDI</string>
+    <string name="suo_con_password">MEMASTIKAN SANDI</string>
+    <string name="suo_later">Nanti Saja</string>
+    <string name="suo_br_setting">Pengaturan singkat</string>
+    <string name="suo_lock_the_app">Membuka App ini</string>
+    <string name="suo_unlock">Masukkan sandi Anda untuk membuka aplikasi ini</string>
+    <string name="suo_always">Selalu mengunci</string>
+    <string name="suo_apply">Penggunaan</string>
+    <string name="suo_use_patt">Gunakan Pola Untuk Aktifkan</string>
+    <string name="suo_permiss_grant">Izin</string>
+    <string name="suo_permiss_msg">Meningkatkan perlindungan privasi, memungkinkan izin akses</string>
+    <string name="suo_permiss">Mengizinkan</string>
+    <string name="suo_again_draw_tu">Menggambar lagi</string>
+    <string name="suo_mima_small">Menggambar setidaknya 3 titik</string>
+    <string name="suo_setting_pattern">Konfirmasi pola</string>
+    <string name="suo_select_a">Pilih aplikasi untuk melindungi</string>
+    <string name="suo_select_a_lo">Aplikasi ini terkunci</string>
+    <string name="suo_draw_path">Sembunyikan path pola menarik</string>
+    <string name="suo_protect">Lindungi aplikasi dengan password</string>
+    <string name="suo_protect_succ">Lindungi berhasil</string>
+    <string name="suo_confirm_tip">mengkonfirmasi passcode Anda</string>
+    <string name="suo_set_tip_password">Masukkan setiap digit</string>
+    <string name="suo_be_soff">mengunci lagi setelah layar off</string>
+    <string name="suo_call">Panggilan masuk</string>
+    <string name="suo_ruqinzhe">Pengacau</string>
+    <string name="suo_ruqinzhe_de">Menangkap penyusup untuk Anda</string>
+    <string name="suo_ruqinzhe_off">Detektor penyusup adalah off</string>
+    <string name="suo_ruqinzhe_on">Detektor penyusup adalah pada</string>
+    <string name="suo_hide">Mengunci aplikasi terbaru</string>
+    <string name="suo_fake_one">Jam</string>
+    <string name="suo_fake_two">Kalkulator</string>
+    <string name="suo_fake_stree">Cuaca</string>
+    <string name="suo_intru">Aktifkan penyusup</string>
+
+    <string name="suo_rate_t">Tingkat Super AppLock</string>
+    <string name="suo_rate_msg">Jika Anda ingin kami, tolong beri kami 5-bintang-rating.</string>
+    <string name="suo_rate_bad">BURUK</string>
+    <string name="_suo_rate_good">BAIK</string>
+    <string name="suo_resu_go">Saya ingin mengatakan ...</string>
+    <string name="suo_emal">Email</string>
+
+    <string name="suo_resu_five">Pujian Anda akan mendorong kita berbuat lebih baik.</string>
+    <string name="suo_five_start">Kami berkomitmen untuk melindungi privasi Anda. Bisakah Anda memberi kami 5-bintang rating?</string>
+    <string name="suo_five_butt">5-Star-Penilaian</string>
+	<string name="suo_submit">Menyerahkan</string>
+    <string name="suo_five_conplain">MENGELUH</string>
+	
+    <string name="suo_start_rat">5 Tingkat</string>
+<!--入侵者-->
+    <string name="suo_intru_f_app">Orang ini sedang mencoba untuk mengintip %1$s. Kami menangkapnya.</string>
+    <string name="suo_intru_selfie">Penyusup selfie</string>
+    <string name="suo_intru_w_tit">Kode yang dimasukkan salah</string>
+    <string name="suo_intru_detail">Penyusup rinci</string>
+    <string name="suo_intru_help">Membantu</string>
+    <string name="suo_intru_shutter">Aktifkan suara</string>
+    <string name="suo_got">OK</string>
+    <string name="suo_intru_tishi">Jika penyusup setiap memasukkan password yang salah, kami akan menangkap
+        wajahnya.
+    </string>
+    <string name="suo_intru_set">Pengaturan penyusup</string>
+    <string name="suo_intru_w_5">5 kali</string>
+    <string name="suo_intru_w_4">4 kali</string>
+    <string name="suo_intru_w_1">1 kali</string>
+    <string name="suo_intru_w_3">3 kali</string>
+    <string name="suo_intru_w_2">2 kali</string>
+    <string name="suo_invade_em">Apa penyusup selfie?</string>
+    <string name="suo_intru_i">Secara otomatis mengambil foto saat membuka kunci dengan password yang salah.</string>
+
+ <!--锁屏-->
+</resources>

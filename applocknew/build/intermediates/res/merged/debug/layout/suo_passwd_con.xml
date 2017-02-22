@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:id="@+id/lockscreen_fl_snakebar"
+    android:layout_height="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/suo_frag_co"
+        android:background="@null">
+
+
+    </FrameLayout>
+
+</FrameLayout>
+
+
+    <!--
+    <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1">
+        <ImageView
+                android:layout_width="match_parent"
+                android:src="@drawable/ic_icon"
+                android:id="@+id/title"
+                android:layout_gravity="center"
+                android:layout_height="@dimen/suo_ic"/>
+    </LinearLayout>
+    <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginBottom="24dp">
+        <com.superjoy.lockscreen_applock.view.PasswdDot
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:id="@+id/app_passwd_dot"
+                android:layout_centerInParent="true"/>
+        <!- <EditText-->
+                <!--android:layout_width="match_parent"-->
+                <!--android:layout_height="wrap_content"-->
+                <!--android:textSize="14sp"-->
+                <!--android:gravity="center"-->
+                <!--android:id="@+id/passwd_numeric"-->
+                <!--android:layout_gravity="center"-->
+                <!--android:inputType="textPassword"-->
+                <!--android:textColor="@android:color/black"-->
+                <!--android:lockscreen_background="@drawable/suo_focused_holo_dark"-->
+                <!--android:layout_margin="10dp" android:enabled="false"-->
+                <!--android:focusable="false"-->
+                <!--android:hint="@string/enter_passwd"/>->
+        <ViewStub
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:id="@+id/lockscreen_reset_passwd"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:lockscreen_background="@drawable/lockscreen_forget"
+                android:layout_toRightOf="@+id/app_passwd_dot"
+                android:layout_toEndOf="@+id/app_passwd_dot"/>
+    </RelativeLayout>
+    <include layout="@layout/app_nm_pad" android:layout_marginBottom="12dp" android:layout_width="match_parent" android:layout_height="wrap_content"/>
+    -->

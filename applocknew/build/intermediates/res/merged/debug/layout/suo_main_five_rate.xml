@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    
+    >
+<FrameLayout
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="262dp"
+        android:layout_marginLeft="20dp"
+        android:layout_marginRight="20dp"
+        android:layout_marginTop="25dp"
+        android:background="@drawable/suo_five_dialo"
+        android:layout_alignParentTop="true"
+        >
+        <View
+            android:id="@+id/vvvvv"
+            android:layout_width="4dp"
+            android:layout_height="4dp"
+            android:layout_alignParentRight="true"
+            />
+    <ImageButton
+        android:layout_marginTop="4dp"
+        android:layout_toLeftOf="@id/vvvvv"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/suo_incade_cha"
+        android:id="@+id/suo_ne_dia" />
+
+    <LinearLayout
+        android:id="@+id/ll_gg"
+        android:layout_centerHorizontal="true"
+        android:layout_alignParentBottom="true"
+        android:orientation="horizontal"
+        android:layout_marginBottom="10dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:layout_marginLeft="8dp"
+            android:id="@+id/suo_bad_bt"
+            android:layout_width="105dp"
+            android:layout_height="40dp"
+            android:background="#00000000"
+            android:text="@string/suo_rate_bad"
+            android:textSize="14sp"
+            android:textColor="@color/suo_ftl_black_38"
+            android:fontFamily="sans-serif-thin"
+            android:textStyle="bold"
+
+            />
+
+        <Button
+            android:layout_marginRight="28dp"
+            android:id="@+id/suo_good_bt"
+            android:background="@drawable/suo_five_good"
+            android:layout_width="150dp"
+            android:layout_height="40dp"
+            android:text="@string/_suo_rate_good"
+            android:textSize="14sp"
+            android:textStyle="bold"
+            android:fontFamily="sans-serif-thin"
+            android:textColor="#ffffff"
+
+            />
+
+    </LinearLayout>
+        <TextView
+            android:layout_marginLeft="12dp"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/suo_five_start"
+            android:layout_above="@id/ll_gg"
+            android:layout_marginBottom="20dp"
+            android:maxEms="18"
+            android:id="@+id/tv"
+            android:textSize="14sp"
+            android:textColor="@color/suo_black_87"
+            android:fontFamily="sans-serif"
+            />
+        </RelativeLayout>
+    <ImageView
+        android:layout_width="220dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center_horizontal"
+        android:src="@drawable/suo_shou"/>
+</FrameLayout>
+</FrameLayout>
+
+
+
+
+
+

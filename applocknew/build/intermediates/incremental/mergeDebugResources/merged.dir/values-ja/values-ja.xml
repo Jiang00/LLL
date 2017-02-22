@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"ホームへ移動"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s、%2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s、%2$s、%3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"上へ移動"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"その他のオプション"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"完了"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"すべて表示"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"アプリの選択"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"OFF"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ON"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"検索…"</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"検索キーワードを削除"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"検索キーワード"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"検索"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"検索キーワードを送信"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"音声検索"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"共有"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sと共有"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"折りたたむ"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」でGoogle Play開発者サービスに問題が発生しています。問題が解決しない場合は、デベロッパーにお問い合わせください。"</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suo_again_draw_tu">再繪製一次</string>
+    <string name="suo_again_reset">パスワードを再設定する</string>
+    <string name="suo_always">常にロック</string>
+    <string name="suo_app_open">スーパーアプリロックを開きました</string>
+    <string name="suo_app_title">アプリロック</string>
+    <string name="suo_app_to_open">スーパーアプリロックを開きます</string>
+    <string name="suo_app_to_stop">スーパーアプリロックを閉じます</string>
+    <string name="suo_apply">適用する</string>
+    <string name="suo_be_slot">短時間中断時間制限</string>
+    <string name="suo_be_soff">画面オフ後に再びロック</string>
+    <string name="suo_br_setting">短時間設定</string>
+    <string name="suo_brief">短時間中断する</string>
+    <string name="suo_brief_detai">認証は再び短時間中断の前に必要とされない</string>
+    <string name="suo_call">電話の着信</string>
+    <string name="suo_cancel">キャンセル</string>
+    <string name="suo_con_password">パスワードを確認</string>
+    <string name="suo_confirm_tip">あなたのパスコードを確認する확인을 위해 암호를 다시 입력</string>
+    <string name="suo_dec_title">移除</string>
+    <string name="suo_done">完成</string>
+    <string name="suo_draw_path">隠すパターンドローパス</string>
+    <string name="suo_draw_tu">ロック解除パターンを描画</string>
+    <string name="suo_en_move_in">転入</string>
+    <string name="suo_fake_one">時計</string>
+    <string name="suo_fake_stree">天気</string>
+    <string name="suo_fake_two">計算器</string>
+    <string name="suo_file_nor">何もない</string>
+    <string name="suo_five">5分</string>
+    <string name="suo_five_conplain">文句を言います</string>
+    <string name="suo_got">とった</string>
+    <string name="suo_hide">最近のアプリ</string>
+    <string name="suo_insta">新しいアプリをインスト一ルしたら、そのアプリを1回夕ップすばロックできます</string>
+    <string name="suo_intru">侵入者撮影できます</string>
+    <string name="suo_intru_detail">侵入者の詳細</string>
+    <string name="suo_intru_f_app">この男はあなたの %1$s の中に侵入しようとされています。私たちは彼を捕まえます。</string>
+    <string name="suo_intru_help">助けて</string>
+    <string name="suo_intru_i">間違ったパスワードでロック解除するときに自動的に写真を撮ります。</string>
+    <string name="suo_intru_selfie">侵入者自分撮り</string>
+    <string name="suo_intru_set">侵入者の設定</string>
+    <string name="suo_intru_shutter">シャッター音を有効にします</string>
+    <string name="suo_intru_tishi">任意の侵入者が間違ったパスワードを入力した場合、私たちはあなたのために彼の顔をキャプチャします。</string>
+    <string name="suo_intru_w_1">1回</string>
+    <string name="suo_intru_w_2">2回</string>
+    <string name="suo_intru_w_3">3回</string>
+    <string name="suo_intru_w_4">4回</string>
+    <string name="suo_intru_w_5">5回</string>
+    <string name="suo_intru_w_tit">不正なコードが入力されました</string>
+    <string name="suo_later">その後</string>
+    <string name="suo_lock_app_f">%1$sを隠蔽できません</string>
+    <string name="suo_lock_b">ロック失敗</string>
+    <string name="suo_lock_chengg">%1$sの成功をロック</string>
+    <string name="suo_lock_newyingyong">新しいアプリをロックする</string>
+    <string name="suo_lock_success">%1$sを隠しました</string>
+    <string name="suo_lock_the_app">このアプリをアンロック</string>
+    <string name="suo_lock_tishi">\"%1$s\"をロックしたぃてすか？</string>
+    <string name="suo_mima_not_">入力されたパスワードが一致しません</string>
+    <string name="suo_mima_small">少なくとも3ドットを描く</string>
+    <string name="suo_next">次へ</string>
+    <string name="suo_notification_desc">通知で表示トグルボタン</string>
+    <string name="suo_notification_show">通知トグル</string>
+    <string name="suo_notlock_app_f">%1$sを表示できません</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_password_f">「パスワードを設定できません」</string>
+    <string name="suo_password_lock">パスワード</string>
+    <string name="suo_password_tishi">「パスワードを空白にしなぃで下さぃ」</string>
+    <string name="suo_pattern_lock">パターン</string>
+    <string name="suo_permiss">パーミッション</string>
+    <string name="suo_permiss_grant">許可する</string>
+    <string name="suo_permiss_msg">"プライバシー保護を強化、アクセス権を許可してください"</string>
+    <string name="suo_protect">パスワードでアプリを保護</string>
+    <string name="suo_protect_succ">首尾よく守る</string>
+    <string name="suo_random">任意キーパッド</string>
+    <string name="suo_rate">評価</string>
+    <string name="suo_ruqinzhe">侵入者</string>
+    <string name="suo_ruqinzhe_de">あなたのためのキャッチ侵入者</string>
+    <string name="suo_ruqinzhe_off">侵入者検出器がオフになっています</string>
+    <string name="suo_ruqinzhe_on">侵入者検出器がオンになっています</string>
+    <string name="suo_select_a">保護するためのアプリを選択します</string>
+    <string name="suo_select_a_lo">これらのアプリはロックされている</string>
+    <string name="suo_set_pass_title">パスワードを設定</string>
+    <string name="suo_set_password">パスワード設定成功</string>
+    <string name="suo_set_tip_password">すべての数字を入力</string>
+    <string name="suo_setting">設定</string>
+    <string name="suo_setting_pattern">パターンの確認</string>
+    <string name="suo_show_success">%1$sを表示しました</string>
+    <string name="suo_sousuo_hint">検索を入力してください</string>
+    <string name="suo_start_rat">5つ星レート</string>
+    <string name="suo_stopped_l">スーパーアプリロックが停止しました</string>
+    <string name="suo_submit">提出する</string>
+    <string name="suo_unlock">このアプリのロックを解除するにはパスワードを入力し</string>
+    <string name="suo_unlock_chengg">%1$sの成功のロック解除</string>
+    <string name="suo_until_sof">画面オフまで</string>
+    <string name="suo_use_passwora">パスワードを使用</string>
+    <string name="suo_use_patt">使用パターン</string>
+</resources>

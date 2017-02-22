@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\raw\\av7",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\raw\\av7"
+    },
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\raw\\av6",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\raw\\av6"
+    },
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\raw\\shutter.mp3",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\raw\\shutter.mp3"
+    },
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\raw\\notices.txt",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\raw\\notices.txt"
+    },
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\raw\\gtm_analytics",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-analytics\\8.4.0\\res\\raw\\gtm_analytics"
+    },
+    {
+        "merged": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\build\\intermediates\\res\\merged\\debug\\raw\\x86",
+        "source": "D:\\gitlab\\AppLock-aurora-v1\\applocknew\\src\\main\\res\\raw\\x86"
+    }
+]

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="_suo_rate_good">BOA</string>
+    <string msgid="4600421777120114993" name="abc_action_bar_home_description">"Navegar para a página inicial"</string>
+    <string msgid="1397052879051804371" name="abc_action_bar_home_description_format">"%1$s, %2$s"</string>
+    <string msgid="6623331958280229229" name="abc_action_bar_home_subtitle_description_format">"%1$s, %2$s, %3$s"</string>
+    <string msgid="1594238315039666878" name="abc_action_bar_up_description">"Navegar para cima"</string>
+    <string msgid="3588849162933574182" name="abc_action_menu_overflow_description">"Mais opções"</string>
+    <string msgid="4076576682505996667" name="abc_action_mode_done">"Concluído"</string>
+    <string msgid="7468859129482906941" name="abc_activity_chooser_view_see_all">"Ver tudo"</string>
+    <string msgid="2031811694353399454" name="abc_activitychooserview_choose_application">"Selecione um app"</string>
+    <string msgid="121134116657445385" name="abc_capital_off">"DESATIVAR"</string>
+    <string msgid="3405795526292276155" name="abc_capital_on">"ATIVAR"</string>
+    <string msgid="7723749260725869598" name="abc_search_hint">"Pesquisar..."</string>
+    <string msgid="3691816814315814921" name="abc_searchview_description_clear">"Limpar consulta"</string>
+    <string msgid="2550479030709304392" name="abc_searchview_description_query">"Consulta de pesquisa"</string>
+    <string msgid="8264924765203268293" name="abc_searchview_description_search">"Pesquisar"</string>
+    <string msgid="8928215447528550784" name="abc_searchview_description_submit">"Enviar consulta"</string>
+    <string msgid="893419373245838918" name="abc_searchview_description_voice">"Pesquisa por voz"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
+    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
+    <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string msgid="7170719956698345984" name="common_google_play_services_unknown_issue">"<ns1:g id="APP_NAME">%1$s</ns1:g> está tendo problemas com os serviços do Google Play. Se o problema persistir, entre em contato com o desenvolvedor para receber ajuda."</string>
+    <string msgid="2869576371154716097" name="status_bar_notification_info_overflow">"999+"</string>
+    <string name="suo_again_draw_tu">Draw again</string>
+    <string name="suo_again_reset">Repor palavra-passe</string>
+    <string name="suo_always">Toda vez</string>
+    <string name="suo_app_open">Super AppLock está sendo executado</string>
+    <string name="suo_app_title">Lock app</string>
+    <string name="suo_app_to_open">Toque para ligar Super AppLock</string>
+    <string name="suo_app_to_stop">Toque para desligar Super AppLock</string>
+    <string name="suo_apply">Aplicar</string>
+    <string name="suo_be_slot">Limite de tempo de saída breve </string>
+    <string name="suo_be_soff">Bloquear novamente após tela off</string>
+    <string name="suo_br_setting">Breve  Configuração</string>
+    <string name="suo_brief">Permitir uma breve saída</string>
+    <string name="suo_brief_detai">Não é necessário voltar a bloquear quando regressar de uma breve saída</string>
+    <string name="suo_call">Chamada recebida</string>
+    <string name="suo_cancel">Anular</string>
+    <string name="suo_con_password">Confirme palavra-passe</string>
+    <string name="suo_confirm_tip">confirmar a sua senha</string>
+    <string name="suo_dec_title">Sair</string>
+    <string name="suo_done">Feito</string>
+    <string name="suo_draw_path">Ocultar caminho padrão empate</string>
+    <string name="suo_draw_tu">Desenhe um padrão de desbloqueio</string>
+    <string name="suo_emal">O email</string>
+    <string name="suo_en_move_in">Entrar</string>
+    <string name="suo_fake_one">Relógio</string>
+    <string name="suo_fake_stree">Tempo</string>
+    <string name="suo_fake_two">Calculadora</string>
+    <string name="suo_file_nor">Nenhum</string>
+    <string name="suo_five">5 minutos</string>
+    <string name="suo_five_butt">5-Star-Avaliação</string>
+    <string name="suo_five_conplain">quejarse</string>
+    <string name="suo_five_start">Temos o compromisso de proteger sua privacidade. Você poderia nos dar a 5-star-rating?</string>
+    <string name="suo_got">OK</string>
+    <string name="suo_hide">Bloquear Apps recentes</string>
+    <string name="suo_insta">Depois de instalada a nova aplicação, pode tocar para bloquear a aplicação</string>
+    <string name="suo_intru">Permitir intruso tirar fotos</string>
+    <string name="suo_intru_detail">Detalhe intruso</string>
+    <string name="suo_intru_f_app">Esse cara está tentando bisbilhotar %1$s. Nós pegá-lo.</string>
+    <string name="suo_intru_help">Ajuda</string>
+    <string name="suo_intru_i">tirar fotos automaticamente quando desbloquear com a senha errada.</string>
+    <string name="suo_intru_selfie">Intruso selfie</string>
+    <string name="suo_intru_set">Definição intruso</string>
+    <string name="suo_intru_shutter">Habilitar o som</string>
+    <string name="suo_intru_tishi">Se algum intruso digitar a senha errada, vamos capturar o rosto para você.</string>
+    <string name="suo_intru_w_1">1 vez</string>
+    <string name="suo_intru_w_2">2 vezes</string>
+    <string name="suo_intru_w_3">3 vezes</string>
+    <string name="suo_intru_w_4">4 vezes</string>
+    <string name="suo_intru_w_5">5 vezes</string>
+    <string name="suo_intru_w_tit">Código incorreto digitado</string>
+    <string name="suo_invade_em">O que é intruso selfie?</string>
+    <string name="suo_later">Mais tarde</string>
+    <string name="suo_lock_app_f">Falha ocultar %1$s</string>
+    <string name="suo_lock_b">Falha na bloqueio</string>
+    <string name="suo_lock_chengg">Bloqueado:%1$s</string>
+    <string name="suo_lock_newyingyong">Bloquear a nova aplicação</string>
+    <string name="suo_lock_success">Oculto:%1$s</string>
+    <string name="suo_lock_the_app">Desbloquear Este App</string>
+    <string name="suo_lock_tishi">Você deseja bloquear\"%1$s\"？</string>
+    <string name="suo_mima_not_">Palavra-passe de confirmação está incorreta</string>
+    <string name="suo_mima_small">Desenhe pelo menos 3 pontos.</string>
+    <string name="suo_next">Depois</string>
+    <string name="suo_notification_desc">Exibido na barra de notificação</string>
+    <string name="suo_notification_show"> Barra de notificação</string>
+    <string name="suo_notlock_app_f">%1$s de mostra falhar</string>
+    <string name="suo_ok">OK</string>
+    <string name="suo_password_f">"Definição da palavra-passe falhou"</string>
+    <string name="suo_password_lock">Palavra-passe</string>
+    <string name="suo_password_tishi">""A sua palavra-passe não pode estar em branco""</string>
+    <string name="suo_pattern_lock">Bloqueio Padrão</string>
+    <string name="suo_permiss">Permissão</string>
+    <string name="suo_permiss_grant">Conceder permissão</string>
+    <string name="suo_permiss_msg">"Melhorar a proteção da privacidade, por favor, permita permissão de acesso."</string>
+    <string name="suo_protect">Proteja aplicativos com uma senha</string>
+    <string name="suo_protect_succ">Proteja com sucesso</string>
+    <string name="suo_random">Teclado aleatório</string>
+    <string name="suo_rate">Avalie me</string>
+    <string name="suo_rate_bad">MAU</string>
+    <string name="suo_rate_msg">Se você gosta de nós, por favor, dê-nos a 5 star-rating.</string>
+    <string name="suo_rate_t">Taxa Super AppLock</string>
+    <string name="suo_resu_five">Seu louvor irá encorajar-nos fazer melhor.</string>
+    <string name="suo_resu_go">Eu quero dizer...</string>
+    <string name="suo_ruqinzhe">Intruso</string>
+    <string name="suo_ruqinzhe_de">Intruso captura para você</string>
+    <string name="suo_ruqinzhe_off">Detector de intrusão está fora</string>
+    <string name="suo_ruqinzhe_on">Detector de intrusão está em</string>
+    <string name="suo_select_a">Selecione aplicativos para proteger</string>
+    <string name="suo_select_a_lo">Esses aplicativos são bloqueados</string>
+    <string name="suo_set_pass_title">Por favor, crie sua palavra-passe primeiro</string>
+    <string name="suo_set_password">Configuração bem sucedida</string>
+    <string name="suo_set_tip_password">Digite os dígitos como senha</string>
+    <string name="suo_setting">Definições</string>
+    <string name="suo_setting_pattern">Desenhe padrão</string>
+    <string name="suo_show_success">Mostrado:%1$s</string>
+    <string name="suo_sousuo_hint">Digite aqui para pesquisar</string>
+    <string name="suo_start_rat">5-Stars-Avaliação</string>
+    <string name="suo_stopped_l">Super AppLock está parado</string>
+    <string name="suo_submit">Enviar</string>
+    <string name="suo_unlock">Digite sua palavra-passe para para desbloquear este app.</string>
+    <string name="suo_unlock_chengg">Desbloqueado:%1$s</string>
+    <string name="suo_until_sof">Até que o ecrã esteja bloqueado</string>
+    <string name="suo_use_passwora">Usá palavra-passe</string>
+    <string name="suo_use_patt">Utilizar padrão</string>
+</resources>

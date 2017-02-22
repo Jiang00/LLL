@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval"
+    android:useLevel="false" >
+
+    <solid android:color="@color/suo_pattern_in_right" />
+    <stroke android:color="@color/suo_pattern_in_righ_stroke" android:width="@dimen/suo_parrern_wai"/>
+    <padding
+        android:left="4dp"
+        android:right="4dp" />
+</shape>
